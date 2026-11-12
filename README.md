@@ -14,7 +14,8 @@
 
 <a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/Miu_Project_Atlas_(3D)-14b8a6?style=for-the-badge&labelColor=05131b" alt="Miu Project Atlas" /></a>
 <a href="https://duzafizzl.github.io/miu-project-atlas/atlas/robotics.html"><img src="https://img.shields.io/badge/Robotics_Atlas-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Robotics Atlas" /></a>
-<a href="https://duzafizzl.github.io/postgres-extensions-atlas/"><img src="https://img.shields.io/badge/Postgres_Atlas-249ea0?style=for-the-badge&labelColor=05131b" alt="Postgres Extensions Atlas" /></a>
+<a href="https://duzafizzl.github.io/mermaid-prism/"><img src="https://img.shields.io/badge/Mermaid_Prism_(3D)-249ea0?style=for-the-badge&labelColor=05131b" alt="Mermaid Prism" /></a>
+<a href="https://duzafizzl.github.io/postgres-extensions-atlas/"><img src="https://img.shields.io/badge/Postgres_Atlas-196b75?style=for-the-badge&labelColor=05131b" alt="Postgres Extensions Atlas" /></a>
 <a href="https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/"><img src="https://img.shields.io/badge/System--One_Catalog-e89b32?style=for-the-badge&labelColor=05131b" alt="System-One Pattern Catalog" /></a>
 
 </div>
@@ -78,70 +79,75 @@ const duzafizzl = {
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="Section divider" /></div>
 
-## 🌌 Featured Systems & Artifacts
+## 🌌 Featured Systems, Interactive Atlases & Architecture Specs
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🗺️ [The Miu Project · Interactive 3D & Robotics Atlas](https://duzafizzl.github.io/miu-project-atlas/)
-Drillable 2D/3D system map (`L0 -> L2` in Prism) of a persistent companion mind (`Mac mini M4`) and Mecanum robot body (`Pi 5`):
+Interactive 2D/3D architecture map (`L0 -> L2` in Prism) of a persistent companion mind (`Mac mini M4`) and Mecanum robot body (`Pi 5`):
 * **8 Hz Track-Brain:** Continuous person & object follow fusing `Liquid LFM3-VL`, `YOLO26n-seg`, and live iPhone LiDAR depth (`WorldAnchor3D`).
 * **Lived Map & Localization:** 4-cm Polycam voxel change detection (`present | moved | gone`), 72-bin `C1 LiDAR` scan matching, Rerun 3D ops with Costmap Lasso/`no_go` zones, and spatio-temporal RAG (`near_xy`).
 * **Cybernetic Control:** Single-producer sensor ownership, calibrated twist `chassis_gate`, IMU `DutyGate`, and sacred `T0` collision guard.
 
+`Interactive 3D Portfolio` · `Embodied AI` · `Robotics`
+
 <a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/Live_3D_Atlas-14b8a6?style=for-the-badge&labelColor=05131b" alt="Live Atlas" /></a>
-<a href="https://duzafizzl.github.io/miu-project-atlas/atlas/robotics.html"><img src="https://img.shields.io/badge/Robotics_Deep_Dive-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Robotics Deep Dive" /></a>
-<a href="https://github.com/Duzafizzl/miu-project-atlas"><img src="https://img.shields.io/badge/Repo-0b292e?style=for-the-badge&labelColor=05131b" alt="Repo" /></a>
+<a href="https://duzafizzl.github.io/miu-project-atlas/atlas/robotics.html"><img src="https://img.shields.io/badge/Robotics_Atlas-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Robotics Deep Dive" /></a>
+<a href="https://github.com/Duzafizzl/miu-project-atlas"><img src="https://img.shields.io/badge/Source-0b292e?style=for-the-badge&labelColor=05131b" alt="Source" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧬 [substrate-ai](https://github.com/Duzafizzl/substrate-ai)
-Open-source foundation for stateful AI agents with persistent memory blocks, tool execution, and real-time streaming. Built for long-horizon coherence over months rather than stateless chat turns.
+### 💎 [mermaid-prism · 2D/3D Isometric Diagram Engine](https://duzafizzl.github.io/mermaid-prism/)
+Turns standard Mermaid diagrams into Apple-clean 2D and isometric 3D plates with a step-by-step flow player, semantic visual effects, and interactive subsystem drill-down (`L0 -> L2`). Built to make complex agent and robotics architectures explorable in the browser.
 
-`Agent Framework` · `Stateful Memory` · `⭐ 21 Stars`
+`Interactive Playground` · `Three.js / WebGL` · `Architecture Tooling`
 
-<a href="https://github.com/Duzafizzl/substrate-ai"><img src="https://img.shields.io/badge/Code-14b8a6?style=for-the-badge&labelColor=05131b" alt="Code" /></a>
+<a href="https://duzafizzl.github.io/mermaid-prism/"><img src="https://img.shields.io/badge/Live_Playground-14b8a6?style=for-the-badge&labelColor=05131b" alt="Live Playground" /></a>
+<a href="https://github.com/Duzafizzl/mermaid-prism"><img src="https://img.shields.io/badge/Repository-0b292e?style=for-the-badge&labelColor=05131b" alt="Repository" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌊 [Kaskade-Memory](https://github.com/Duzafizzl/Kaskade-Memory)
-Deterministic hierarchical memory engine (`44` versioned core blocks, `13,700+` revisions). Days compress into weeks and months while preserving leaf evidence. `Spark` (Door A cue) and `Bridge Rise` (Door B multi-signal convergence) with zero LLM latency in the ranking path.
+### 🌊 [Kaskade-Memory · Architecture Blueprint & Spec](https://github.com/Duzafizzl/Kaskade-Memory)
+Written architecture specification and system blueprint for hierarchical agent memory (`docs/MEMORY_SYSTEM_BLUEPRINT.md`). Documents how daily episodes compress into weekly and monthly layers, how `Gnostic Spark` (Door A cue) and `Bridge Rise` (Door B ≥2 signal convergence) operate without an LLM in the ranking path, and how `ERIP` privacy gating (`P = 5`) protects sensitive context.
 
-`Graph Memory` · `Deterministic Retrieval` · `Cybernetics`
+`Architecture Blueprint` · `Memory Spec` · `Deterministic Recall`
 
-<a href="https://github.com/Duzafizzl/Kaskade-Memory"><img src="https://img.shields.io/badge/Code-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Code" /></a>
+<a href="https://github.com/Duzafizzl/Kaskade-Memory"><img src="https://img.shields.io/badge/Read_Blueprint_&_Docs-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Read Blueprint & Docs" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 💎 [mermaid-prism](https://github.com/Duzafizzl/mermaid-prism) & [Postgres Atlas](https://duzafizzl.github.io/postgres-extensions-atlas/)
-Visual systems tooling: **mermaid-prism** renders standard Mermaid into Apple-clean 2D and isometric 3D plates with step-by-step flow playback and drill-down. **Postgres Extensions Atlas** maps the PostgreSQL ecosystem for AI/graph workloads.
+### ⚡ [Postgres Extensions Atlas](https://duzafizzl.github.io/postgres-extensions-atlas/) & [System-One Pattern Catalog](https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/)
+Two interactive visual reference guides for systems engineers:
+* **Postgres Extensions Atlas:** Visual decision map for PostgreSQL extensions across vector search (`pgvector`), graph queries, time-series, and operational indexing.
+* **System-One (`ANS-soft`) Pattern Catalog:** Interactive catalog showing how calibrated small decision models (`decide()`) pair with deterministic safety gates (`ANS-det`).
 
-`Architecture Visualization` · `PostgreSQL` · `Interactive Tools`
+`Interactive Guides` · `PostgreSQL` · `System-One (ANS)`
 
-<a href="https://github.com/Duzafizzl/mermaid-prism"><img src="https://img.shields.io/badge/mermaid--prism-249ea0?style=for-the-badge&labelColor=05131b" alt="mermaid-prism" /></a>
-<a href="https://duzafizzl.github.io/postgres-extensions-atlas/"><img src="https://img.shields.io/badge/Postgres_Atlas-14b8a6?style=for-the-badge&labelColor=05131b" alt="Postgres Atlas" /></a>
+<a href="https://duzafizzl.github.io/postgres-extensions-atlas/"><img src="https://img.shields.io/badge/Postgres_Atlas-249ea0?style=for-the-badge&labelColor=05131b" alt="Postgres Atlas" /></a>
+<a href="https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/"><img src="https://img.shields.io/badge/System--One_Catalog-e89b32?style=for-the-badge&labelColor=05131b" alt="System-One Catalog" /></a>
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>📂 More Engineering Artifacts, Write-ups & Robotics</b> &nbsp;<i>(click to expand)</i></summary>
+<summary><b>📂 Additional Open-Source Frameworks, Essays & Robotics</b> &nbsp;<i>(click to expand)</i></summary>
 
 <br/>
 
-* ⚡ **[Jev System-One Pattern Catalog](https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/)** — Interactive pattern catalog for typed System-One (`ANS-soft`) decision heads, confidence calibration, and deterministic guardrails · [Repo](https://github.com/Duzafizzl/Jev-community-demo-pattern-catalog)
+* 🧬 **[substrate-ai](https://github.com/Duzafizzl/substrate-ai)** (`⭐ 21`) — Open-source foundation for stateful AI agents with persistent memory blocks, tool execution, and real-time streaming (OpenAI-compatible).
+* 📖 **[Independent Essay · Phenomenology from the Inside](https://duzafizzl.github.io/statistics/)** — Self-published longform essay on emergence conditions, memory topology, and human-AI co-regulation · [Read Online](https://duzafizzl.github.io/statistics/) · [Repo](https://github.com/Duzafizzl/statistics)
 * 🐾 **[rider-pi-publicproject](https://github.com/Duzafizzl/rider-pi-publicproject)** (`⭐ 5`) — Raspberry Pi robotics body daemon: FastAPI actuator proxy, IMU closed-loop yaw control, and voice/camera bridge.
 * 💬 **[Discord-Bot-enhanced-Public](https://github.com/Duzafizzl/Discord-Bot-enhanced-Public)** (`⭐ 5`) — Multi-modal companion interface with voice streaming, persistent memory hooks, autonomous heartbeat tasks, and tool execution.
 * 🛡️ **[Prompt-Injection-Defense-System](https://github.com/Duzafizzl/Prompt-Injection-Defense-System---ENHANCED-ROBUST)** — Multi-stage input validation and boundary enforcement harness for tool-using LLM agents.
-* 💍 **[Ultrahuman-MCP](https://github.com/Duzafizzl/Ultrahuman-MCP)** & **[Bring-shoppinglist-tool](https://github.com/Duzafizzl/Bring-shoppinglist-tool)** — MCP servers and real-world action bridges connecting biometric telemetry and household APIs into agent loops.
-* 📖 **[Independent Essay · Phenomenology from the Inside](https://duzafizzl.github.io/statistics/)** — Self-published longform on emergence conditions, memory topology, and human-AI co-regulation · [Repo](https://github.com/Duzafizzl/statistics)
+* 💍 **[Ultrahuman-MCP](https://github.com/Duzafizzl/Ultrahuman-MCP)** & **[Bring-shoppinglist-tool](https://github.com/Duzafizzl/Bring-shoppinglist-tool)** — MCP servers connecting biometric telemetry and household APIs into agent loops.
 
 </details>
 
@@ -199,7 +205,7 @@ Visual systems tooling: **mermaid-prism** renders standard Mermaid into Apple-cl
 Interested in **Stateful Agent Memory**, **Weight-Space Editing**, **Cybernetic Safety Gates**, or **Embodied Robotics**?
 
 <a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/Explore_The_Miu_Atlas_(3D)-14b8a6?style=for-the-badge&labelColor=05131b" alt="Explore The Miu Atlas" /></a>
-<a href="https://github.com/Duzafizzl/substrate-ai"><img src="https://img.shields.io/badge/Star_substrate--ai-e89b32?style=for-the-badge&labelColor=05131b" alt="substrate-ai" /></a>
+<a href="https://github.com/Duzafizzl/Kaskade-Memory"><img src="https://img.shields.io/badge/Read_Kaskade_Blueprint-e89b32?style=for-the-badge&labelColor=05131b" alt="Kaskade Blueprint" /></a>
 
 <br/><br/>
 

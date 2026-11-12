@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="268" viewBox="0 0 860 268" role="img" aria-label="Architecture &amp; Stack">
+  <defs>
+    <linearGradient id="stack-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#041014"/>
+      <stop offset="52%" stop-color="#092228"/>
+      <stop offset="100%" stop-color="#041216"/>
+    </linearGradient>
+    <radialGradient id="stack-orb-teal" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#14b8a6" stop-opacity="0.42"/>
+      <stop offset="58%" stop-color="#0d9488" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0d9488" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="stack-orb-mint" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.32"/>
+      <stop offset="58%" stop-color="#14b8a6" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#14b8a6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="stack-orb-amber" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e5a93c" stop-opacity="0.22"/>
+      <stop offset="60%" stop-color="#e5a93c" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#e5a93c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="stack-shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#5eead4" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <rect width="860" height="268" rx="20" fill="url(#stack-bg)"/>
+    <ellipse cx="150" cy="50" rx="210" ry="100" fill="url(#stack-orb-teal)"/>
+    <ellipse cx="720" cy="220" rx="220" ry="100" fill="url(#stack-orb-amber)"/>
+    <rect x="26" y="24" width="808" height="220" rx="18" fill="rgba(5,16,20,0.58)" stroke="#2dd4bf" stroke-opacity="0.45"/>
+    <text x="46" y="58" font-family="Georgia,'Times New Roman',serif" font-size="25" font-weight="600" fill="#f0fdfa">Architecture &amp; Engineering Stack</text>
+    <text x="812" y="56" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" font-weight="700" fill="#5eead4">SPEC-DRIVEN · LOCAL-FIRST</text>
+    <circle cx="56" cy="100" r="4.5" fill="#e5a93c"/><text x="70" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#f0fdfa">Memory & Weight-Space (PostgreSQL · MLX bf16 · MEMIT/LSQ)</text><text x="515" y="104" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#e5a93c">38%</text><rect x="530" y="94" width="276" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/><rect x="530" y="94" width="210" height="9" rx="4.5" fill="#e5a93c"/>
+    <circle cx="56" cy="136" r="4.5" fill="#2dd4bf"/><text x="70" y="140" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#f0fdfa">Embodied Robotics (ROS 2 Nav2 · LiDAR · Track-Brain 8Hz)</text><text x="515" y="140" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#2dd4bf">28%</text><rect x="530" y="130" width="276" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/><rect x="530" y="130" width="165" height="9" rx="4.5" fill="#2dd4bf"/>
+    <circle cx="56" cy="172" r="4.5" fill="#14b8a6"/><text x="70" y="176" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#f0fdfa">Agent Substrate & Voice (Python · TypeScript · LiveKit)</text><text x="515" y="176" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#14b8a6">20%</text><rect x="530" y="166" width="276" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/><rect x="530" y="166" width="125" height="9" rx="4.5" fill="#14b8a6"/>
+    <circle cx="56" cy="208" r="4.5" fill="#5eead4"/><text x="70" y="212" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#f0fdfa">Cybernetic Safety & Governance (ANS-det T0 · Q-Gates · EU AI Act)</text><text x="515" y="212" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#5eead4">14%</text><rect x="530" y="202" width="276" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/><rect x="530" y="202" width="95" height="9" rx="4.5" fill="#5eead4"/>
+    <rect x="0.5" y="0.5" width="859" height="267" rx="19.5" fill="none" stroke="#2dd4bf" stroke-opacity="0.55"/>
+  </g>
+</svg>

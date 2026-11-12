@@ -1,6 +1,6 @@
 <!--
   File: README.md
-  Description: Pseudonymous recruiter-ready GitHub profile README for Duzafizzl in the Liquid AI / Weight-Space Surgery emerald/teal/amber CI style.
+  Description: Pseudonymous recruiter-ready GitHub profile README for Duzafizzl in the Liquid AI / Weight-Space Surgery emerald/teal/amber CI style — zero redundancy.
   Created: 2026-11-12
   Last updated: 2026-11-12
 -->
@@ -41,35 +41,6 @@ const duzafizzl = {
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="Section divider" /></div>
 
-## 🔬 R&D Highlights: Weight Space, Memory & Embodied Robotics
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Weight-Space Surgery & Living Memory
-*Moving stable behavior from 100k-token prompts into model weights on Apple Silicon (`MLX bfloat16`).*
-
-* **Surgical Hallucination Purge (Layer 22 · Col `#4543`):** Traced a German public-TV subtitle hallucination (*"Untertitelung des ZDF, 2020"* on silence) in `LFM3-Audio-2B` to a single MLP column in `feed_forward.w2.weight`. Removed it in 4 seconds via rank-1 orthogonal projection across top-32 columns (`0.41%` of layer weights) with zero retraining.
-* **Covariance-Protected Voice LSQ:** Replaced naive mean-offset steering with a MEMIT-style covariance-regularized least-squares solve (`(XᵀX + λI)⁻¹`) on `LiquidCodec`, lifting target voice cosine similarity (`-0.06 -> +0.24`) while holding German ASR round-trip Word Error Rate at `0.00`.
-* **3-Tier Memory Cascade (104k -> ~8k Tokens):** Partitioned 44 Postgres core memory blocks (`13,700+` historical versions) into hot working memory, Door A/B paragraph cascades (`<2 ms` n-gram + convergence recall), and nightly TensorFold weight promotion under a `--tolerance 0` regression gate.
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Embodied AI & Robotics (`Rasp-Bear`)
-*One mind across chat, full-duplex voice, Flip display, and a physical Mecanum robot (`Pi 5` + `Mac mini M4`).*
-
-* **8 Hz Track-Brain & Sensor Fusion:** Continuous person and object follow combining `Liquid LFM3-VL`, `YOLO26n-seg`, and live iPhone LiDAR depth streams over WebRTC/LiveKit (`WorldAnchor3D` 3D pins + ground projection).
-* **Lived Map & Local LiDAR Localization:** 4-cm Polycam voxel change detection (`present | moved | gone`), 72-bin correlative `C1 LiDAR` scan-to-map localization, Rerun 3D ops surface with Costmap Lasso/`no_go` zones, and spatio-temporal RAG (`near_xy` emotional/episodic memory sparks).
-* **Cybernetic Control Architecture:** Strict separation between brain (`miu-substrate` on Mac) and body (`FastAPI` + `ROS 2 Nav2` on Pi 5). Single-producer sensor ownership, calibrated twist `chassis_gate`, IMU-gated duty pulses (`DutyGate`), and sacred `T0` ultrasonic collision supervisor.
-
-</td>
-</tr>
-</table>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt="Section divider" /></div>
-
 ## 📰 Featured Engineering Write-ups
 
 <table>
@@ -81,7 +52,9 @@ const duzafizzl = {
 </a>
 
 ### [Weight-Space Surgery: Rewriting Habits Inside Models](https://www.linkedin.com/pulse/weight-space-surgery-rewriting-habits-inside-models-clarissa-roethig-mbwfe/)
-Isolated a German public-TV subtitle hallucination (*"Untertitelung des ZDF, 2020"*) in `LFM3-Audio-2B` (`MLX bfloat16`) to **Layer 22 · Col `#4543`** and cut it in 4 seconds via rank-1 orthogonal projection — plus covariance-regularized LSQ voice timbre calibration (`0.00` WER) and why 104,703 prompt tokens belong in a 3-tier weight/cascade architecture.
+* **Layer 22 · Col `#4543` Purge:** Isolated a German public-TV subtitle hallucination (*"Untertitelung des ZDF, 2020"* on silence) in `LFM3-Audio-2B` (`MLX bfloat16`) to a single MLP column and projected it out in 4 seconds (`0.41%` of layer weights, zero retraining).
+* **Covariance-Protected Voice LSQ:** Solved a MEMIT-style least-squares edit (`(XᵀX + λI)⁻¹`) on `LiquidCodec`, lifting target timbre similarity (`-0.06 -> +0.24`) at `0.00` Word Error Rate.
+* **3-Tier Memory Cascade (104k -> ~8k Tokens):** Replaced static prompt dumps with hot working memory, `<2 ms` Door A/B cascades, and nightly weight promotion under a `--tolerance 0` regression gate.
 
 <a href="https://www.linkedin.com/pulse/weight-space-surgery-rewriting-habits-inside-models-clarissa-roethig-mbwfe/"><img src="https://img.shields.io/badge/Read_Case_Study-14b8a6?style=for-the-badge&labelColor=041a1c" alt="Read Case Study" /></a>
 
@@ -93,7 +66,9 @@ Isolated a German public-TV subtitle hallucination (*"Untertitelung des ZDF, 202
 </a>
 
 ### [How I Reverse-Engineered a Jane Street ASIC](https://www.linkedin.com/pulse/jane-street-gave-me-chip-layout-source-code-heres-how-roethig-10mef/)
-Started with a raw physical chip layout (`GDSII`) and zero source code: reconstructed standard cells, traced metal routing layers back into a gate-level netlist, and solved the embedded hardware logic puzzle down to the exact **121-bit solution**.
+* **GDSII to Gate-Level Netlist:** Started with a raw physical silicon layout and zero source code or cell library definitions.
+* **Physical Layer Extraction:** Reconstructed CMOS standard cells from diffusion, poly, and metal routing layers to recover the boolean logic graph.
+* **Constraint Solving:** Simplified the extracted netlist and solved the embedded hardware logic puzzle down to the exact **121-bit solution**.
 
 <a href="https://www.linkedin.com/pulse/jane-street-gave-me-chip-layout-source-code-heres-how-roethig-10mef/"><img src="https://img.shields.io/badge/Read_Write--up-e5a93c?style=for-the-badge&labelColor=041a1c" alt="Read Write-up" /></a>
 
@@ -109,10 +84,11 @@ Started with a raw physical chip layout (`GDSII`) and zero source code: reconstr
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ [The Miu Project · Interactive 3D Atlas](https://duzafizzl.github.io/miu-project-atlas/)
-Drillable system map (`L0 -> L2` in 2D/3D Prism) documenting a solo-built persistent AI architecture: lived recall (`Bridge Rise`), Multi-Modal Appraisal (`MMA`), self-healing harness with HITL approval, LiveKit voice/face, and robotics.
-
-`Embodied AI` · `Three.js / Prism 3D` · `System Architecture`
+### 🗺️ [The Miu Project · Interactive 3D & Robotics Atlas](https://duzafizzl.github.io/miu-project-atlas/)
+Drillable 2D/3D system map (`L0 -> L2` in Prism) of a persistent companion mind (`Mac mini M4`) and Mecanum robot body (`Pi 5`):
+* **8 Hz Track-Brain:** Continuous person & object follow fusing `Liquid LFM3-VL`, `YOLO26n-seg`, and live iPhone LiDAR depth (`WorldAnchor3D`).
+* **Lived Map & Localization:** 4-cm Polycam voxel change detection (`present | moved | gone`), 72-bin `C1 LiDAR` scan matching, Rerun 3D ops with Costmap Lasso/`no_go` zones, and spatio-temporal RAG (`near_xy`).
+* **Cybernetic Control:** Single-producer sensor ownership, calibrated twist `chassis_gate`, IMU `DutyGate`, and sacred `T0` collision guard.
 
 <a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/Live_3D_Atlas-14b8a6?style=for-the-badge&labelColor=041a1c" alt="Live Atlas" /></a>
 <a href="https://duzafizzl.github.io/miu-project-atlas/atlas/robotics.html"><img src="https://img.shields.io/badge/Robotics_Deep_Dive-2dd4bf?style=for-the-badge&labelColor=041a1c" alt="Robotics Deep Dive" /></a>
@@ -134,7 +110,7 @@ Open-source foundation for stateful AI agents with persistent memory blocks, too
 <td width="50%" valign="top">
 
 ### 🌊 [Kaskade-Memory](https://github.com/Duzafizzl/Kaskade-Memory)
-Hierarchical memory engine for coding and companion agents. Days compress into weeks and months while preserving leaf evidence. Deterministic `Spark` (Door A cue) and `Bridge Rise` (Door B multi-signal convergence) with zero LLM latency in the ranking path.
+Deterministic hierarchical memory engine (`44` versioned core blocks, `13,700+` revisions). Days compress into weeks and months while preserving leaf evidence. `Spark` (Door A cue) and `Bridge Rise` (Door B multi-signal convergence) with zero LLM latency in the ranking path.
 
 `Graph Memory` · `Deterministic Retrieval` · `Cybernetics`
 
@@ -166,7 +142,6 @@ Visual systems tooling: **mermaid-prism** renders standard Mermaid into Apple-cl
 * 🛡️ **[Prompt-Injection-Defense-System](https://github.com/Duzafizzl/Prompt-Injection-Defense-System---ENHANCED-ROBUST)** — Multi-stage input validation and boundary enforcement harness for tool-using LLM agents.
 * 💍 **[Ultrahuman-MCP](https://github.com/Duzafizzl/Ultrahuman-MCP)** & **[Bring-shoppinglist-tool](https://github.com/Duzafizzl/Bring-shoppinglist-tool)** — MCP servers and real-world action bridges connecting biometric telemetry and household APIs into agent loops.
 * 📖 **[Independent Essay · Phenomenology from the Inside](https://duzafizzl.github.io/statistics/)** — Self-published longform on emergence conditions, memory topology, and human-AI co-regulation · [Repo](https://github.com/Duzafizzl/statistics)
-* 🔬 **Hardware Reverse-Engineering (GDSII -> Netlist)** — Solved the Jane Street ASIC logic puzzle by extracting a gate-level netlist from a raw physical chip layout without source code.
 
 </details>
 
@@ -228,6 +203,6 @@ Interested in **Stateful Agent Memory**, **Weight-Space Editing**, **Cybernetic 
 
 <br/><br/>
 
-***⭐ From [duzafizzl](https://github.com/duzafizzl) · Grounded in cybernetics, verified by gates, built with AI & a little chaos 😈***
+***⭐ From [duzafizzl](https://github.com/Duzafizzl) · Grounded in cybernetics, verified by gates, built with AI & a little chaos 😈***
 
 </div>

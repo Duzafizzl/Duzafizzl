@@ -1,6 +1,6 @@
 <!--
   File: README.md
-  Description: Pseudonymous recruiter-ready GitHub profile README for Duzafizzl in the Liquid AI / Weight-Space Surgery emerald/teal/amber CI style — zero redundancy.
+  Description: Pseudonymous recruiter-ready GitHub profile README for Duzafizzl in the Liquid AI / Weight-Space Surgery LinkedIn CI style.
   Created: 2026-11-12
   Last updated: 2026-11-12
 -->
@@ -12,10 +12,10 @@
 
 <br/><br/>
 
-<a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/🌌_Miu_Project_Atlas_(3D)-14b8a6?style=for-the-badge&labelColor=041a1c" alt="Miu Project Atlas" /></a>
-<a href="https://duzafizzl.github.io/miu-project-atlas/atlas/robotics.html"><img src="https://img.shields.io/badge/🤖_Robotics_Atlas-2dd4bf?style=for-the-badge&labelColor=041a1c" alt="Robotics Atlas" /></a>
-<a href="https://duzafizzl.github.io/postgres-extensions-atlas/"><img src="https://img.shields.io/badge/🐘_Postgres_Atlas-0d9488?style=for-the-badge&labelColor=041a1c" alt="Postgres Extensions Atlas" /></a>
-<a href="https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/"><img src="https://img.shields.io/badge/⚡_System--One_Catalog-e5a93c?style=for-the-badge&labelColor=041a1c" alt="System-One Pattern Catalog" /></a>
+<a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/Miu_Project_Atlas_(3D)-14b8a6?style=for-the-badge&labelColor=05131b" alt="Miu Project Atlas" /></a>
+<a href="https://duzafizzl.github.io/miu-project-atlas/atlas/robotics.html"><img src="https://img.shields.io/badge/Robotics_Atlas-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Robotics Atlas" /></a>
+<a href="https://duzafizzl.github.io/postgres-extensions-atlas/"><img src="https://img.shields.io/badge/Postgres_Atlas-249ea0?style=for-the-badge&labelColor=05131b" alt="Postgres Extensions Atlas" /></a>
+<a href="https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/"><img src="https://img.shields.io/badge/System--One_Catalog-e89b32?style=for-the-badge&labelColor=05131b" alt="System-One Pattern Catalog" /></a>
 
 </div>
 
@@ -56,7 +56,7 @@ const duzafizzl = {
 * **Covariance-Protected Voice LSQ:** Solved a MEMIT-style least-squares edit (`(XᵀX + λI)⁻¹`) on `LiquidCodec`, lifting target timbre similarity (`-0.06 -> +0.24`) at `0.00` Word Error Rate.
 * **3-Tier Memory Cascade (104k -> ~8k Tokens):** Replaced static prompt dumps with hot working memory, `<2 ms` Door A/B cascades, and nightly weight promotion under a `--tolerance 0` regression gate.
 
-<a href="https://www.linkedin.com/pulse/weight-space-surgery-rewriting-habits-inside-models-clarissa-roethig-mbwfe/"><img src="https://img.shields.io/badge/Read_Case_Study-14b8a6?style=for-the-badge&labelColor=041a1c" alt="Read Case Study" /></a>
+<a href="https://www.linkedin.com/pulse/weight-space-surgery-rewriting-habits-inside-models-clarissa-roethig-mbwfe/"><img src="https://img.shields.io/badge/Read_Case_Study-14b8a6?style=for-the-badge&labelColor=05131b" alt="Read Case Study" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -70,7 +70,7 @@ const duzafizzl = {
 * **Physical Layer Extraction:** Reconstructed CMOS standard cells from diffusion, poly, and metal routing layers to recover the boolean logic graph.
 * **Constraint Solving:** Simplified the extracted netlist and solved the embedded hardware logic puzzle down to the exact **121-bit solution**.
 
-<a href="https://www.linkedin.com/pulse/jane-street-gave-me-chip-layout-source-code-heres-how-roethig-10mef/"><img src="https://img.shields.io/badge/Read_Write--up-e5a93c?style=for-the-badge&labelColor=041a1c" alt="Read Write-up" /></a>
+<a href="https://www.linkedin.com/pulse/jane-street-gave-me-chip-layout-source-code-heres-how-roethig-10mef/"><img src="https://img.shields.io/badge/Read_Write--up-e89b32?style=for-the-badge&labelColor=05131b" alt="Read Write-up" /></a>
 
 </td>
 </tr>
@@ -90,9 +90,9 @@ Drillable 2D/3D system map (`L0 -> L2` in Prism) of a persistent companion mind 
 * **Lived Map & Localization:** 4-cm Polycam voxel change detection (`present | moved | gone`), 72-bin `C1 LiDAR` scan matching, Rerun 3D ops with Costmap Lasso/`no_go` zones, and spatio-temporal RAG (`near_xy`).
 * **Cybernetic Control:** Single-producer sensor ownership, calibrated twist `chassis_gate`, IMU `DutyGate`, and sacred `T0` collision guard.
 
-<a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/Live_3D_Atlas-14b8a6?style=for-the-badge&labelColor=041a1c" alt="Live Atlas" /></a>
-<a href="https://duzafizzl.github.io/miu-project-atlas/atlas/robotics.html"><img src="https://img.shields.io/badge/Robotics_Deep_Dive-2dd4bf?style=for-the-badge&labelColor=041a1c" alt="Robotics Deep Dive" /></a>
-<a href="https://github.com/Duzafizzl/miu-project-atlas"><img src="https://img.shields.io/badge/Repo-0b292e?style=for-the-badge&labelColor=041a1c" alt="Repo" /></a>
+<a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/Live_3D_Atlas-14b8a6?style=for-the-badge&labelColor=05131b" alt="Live Atlas" /></a>
+<a href="https://duzafizzl.github.io/miu-project-atlas/atlas/robotics.html"><img src="https://img.shields.io/badge/Robotics_Deep_Dive-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Robotics Deep Dive" /></a>
+<a href="https://github.com/Duzafizzl/miu-project-atlas"><img src="https://img.shields.io/badge/Repo-0b292e?style=for-the-badge&labelColor=05131b" alt="Repo" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -102,7 +102,7 @@ Open-source foundation for stateful AI agents with persistent memory blocks, too
 
 `Agent Framework` · `Stateful Memory` · `⭐ 21 Stars`
 
-<a href="https://github.com/Duzafizzl/substrate-ai"><img src="https://img.shields.io/badge/Code-14b8a6?style=for-the-badge&labelColor=041a1c" alt="Code" /></a>
+<a href="https://github.com/Duzafizzl/substrate-ai"><img src="https://img.shields.io/badge/Code-14b8a6?style=for-the-badge&labelColor=05131b" alt="Code" /></a>
 
 </td>
 </tr>
@@ -114,7 +114,7 @@ Deterministic hierarchical memory engine (`44` versioned core blocks, `13,700+` 
 
 `Graph Memory` · `Deterministic Retrieval` · `Cybernetics`
 
-<a href="https://github.com/Duzafizzl/Kaskade-Memory"><img src="https://img.shields.io/badge/Code-2dd4bf?style=for-the-badge&labelColor=041a1c" alt="Code" /></a>
+<a href="https://github.com/Duzafizzl/Kaskade-Memory"><img src="https://img.shields.io/badge/Code-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -124,8 +124,8 @@ Visual systems tooling: **mermaid-prism** renders standard Mermaid into Apple-cl
 
 `Architecture Visualization` · `PostgreSQL` · `Interactive Tools`
 
-<a href="https://github.com/Duzafizzl/mermaid-prism"><img src="https://img.shields.io/badge/mermaid--prism-0d9488?style=for-the-badge&labelColor=041a1c" alt="mermaid-prism" /></a>
-<a href="https://duzafizzl.github.io/postgres-extensions-atlas/"><img src="https://img.shields.io/badge/Postgres_Atlas-14b8a6?style=for-the-badge&labelColor=041a1c" alt="Postgres Atlas" /></a>
+<a href="https://github.com/Duzafizzl/mermaid-prism"><img src="https://img.shields.io/badge/mermaid--prism-249ea0?style=for-the-badge&labelColor=05131b" alt="mermaid-prism" /></a>
+<a href="https://duzafizzl.github.io/postgres-extensions-atlas/"><img src="https://img.shields.io/badge/Postgres_Atlas-14b8a6?style=for-the-badge&labelColor=05131b" alt="Postgres Atlas" /></a>
 
 </td>
 </tr>
@@ -159,14 +159,14 @@ Visual systems tooling: **mermaid-prism** renders standard Mermaid into Apple-cl
 
 <br/>
 
-<img src="https://img.shields.io/badge/Spec--Driven_Q--Gates-14b8a6?style=for-the-badge&labelColor=041a1c" alt="Spec-Driven Q-Gates" />
-<img src="https://img.shields.io/badge/PostgreSQL_&_Graph_Memory-0d9488?style=for-the-badge&labelColor=041a1c" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Apple_Silicon_MLX_(bf16)-2dd4bf?style=for-the-badge&labelColor=041a1c" alt="Apple Silicon MLX" />
-<img src="https://img.shields.io/badge/ROS_2_Nav2_&_LiDAR-e5a93c?style=for-the-badge&labelColor=041a1c" alt="ROS 2 Nav2" />
-<img src="https://img.shields.io/badge/LiveKit_WebRTC_Full--Duplex-5eead4?style=for-the-badge&labelColor=041a1c" alt="LiveKit WebRTC" />
-<img src="https://img.shields.io/badge/System--One_(ANS--det_/_ANS--soft)-e5a93c?style=for-the-badge&labelColor=041a1c" alt="System-One ANS" />
-<img src="https://img.shields.io/badge/EU_AI_Act_&_Eval_Harnesses-115e59?style=for-the-badge&labelColor=041a1c" alt="AI Governance & Eval" />
-<img src="https://img.shields.io/badge/Mermaid_Prism_3D-0f766e?style=for-the-badge&labelColor=041a1c" alt="Mermaid Prism" />
+<img src="https://img.shields.io/badge/Spec--Driven_Q--Gates-14b8a6?style=for-the-badge&labelColor=05131b" alt="Spec-Driven Q-Gates" />
+<img src="https://img.shields.io/badge/PostgreSQL_&_Graph_Memory-249ea0?style=for-the-badge&labelColor=05131b" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Apple_Silicon_MLX_(bf16)-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Apple Silicon MLX" />
+<img src="https://img.shields.io/badge/ROS_2_Nav2_&_LiDAR-e89b32?style=for-the-badge&labelColor=05131b" alt="ROS 2 Nav2" />
+<img src="https://img.shields.io/badge/LiveKit_WebRTC_Full--Duplex-4de8d6?style=for-the-badge&labelColor=05131b" alt="LiveKit WebRTC" />
+<img src="https://img.shields.io/badge/System--One_(ANS--det_/_ANS--soft)-e89b32?style=for-the-badge&labelColor=05131b" alt="System-One ANS" />
+<img src="https://img.shields.io/badge/EU_AI_Act_&_Eval_Harnesses-155263?style=for-the-badge&labelColor=05131b" alt="AI Governance & Eval" />
+<img src="https://img.shields.io/badge/Mermaid_Prism_3D-196b75?style=for-the-badge&labelColor=05131b" alt="Mermaid Prism" />
 
 </div>
 
@@ -198,8 +198,8 @@ Visual systems tooling: **mermaid-prism** renders standard Mermaid into Apple-cl
 
 Interested in **Stateful Agent Memory**, **Weight-Space Editing**, **Cybernetic Safety Gates**, or **Embodied Robotics**?
 
-<a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/Explore_The_Miu_Atlas_(3D)-14b8a6?style=for-the-badge&labelColor=041a1c" alt="Explore The Miu Atlas" /></a>
-<a href="https://github.com/Duzafizzl/substrate-ai"><img src="https://img.shields.io/badge/Star_substrate--ai-e5a93c?style=for-the-badge&labelColor=041a1c" alt="substrate-ai" /></a>
+<a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/Explore_The_Miu_Atlas_(3D)-14b8a6?style=for-the-badge&labelColor=05131b" alt="Explore The Miu Atlas" /></a>
+<a href="https://github.com/Duzafizzl/substrate-ai"><img src="https://img.shields.io/badge/Star_substrate--ai-e89b32?style=for-the-badge&labelColor=05131b" alt="substrate-ai" /></a>
 
 <br/><br/>
 

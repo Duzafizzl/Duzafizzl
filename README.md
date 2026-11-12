@@ -243,6 +243,6 @@ Interested in **Operational AI Governance**, **Stateful Agent Memory**, **Weight
 
 <br/><br/>
 
-***⭐ From [duzafizzl](https://github.com/Duzafizzl) · Grounded in cybernetics, verified by gates, built with AI & a little chaos 😈***
+***⭐ From [duzafizzl](https://github.com/Duzafizzl) · Grounded in cybernetics, verified by gates, built with AI & a little chaos❤️***
 
 </div>

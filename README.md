@@ -1,6 +1,6 @@
 <!--
   File: README.md
-  Description: Mobile- and Desktop-optimized GitHub profile README for Duzafizzl in the Liquid AI / Weight-Space Surgery LinkedIn CI style.
+  Description: Mobile- and Desktop-optimized GitHub profile README for Duzafizzl in the Liquid AI / Weight-Space Surgery LinkedIn CI style. Zero em-dashes, 3D Contribution City placed near the top.
   Created: 2026-11-12
   Last updated: 2026-11-12
 -->
@@ -22,14 +22,20 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="Section divider" /></div>
 
-> **`01 · MEMORY & WEIGHT-SPACE` — Structured Memory & Weight Edits**  
-> Replacing 100k-token prompt dumps with **PostgreSQL graph memory** (days rolling into weeks and months) and direct **model weight edits on Apple Silicon MLX** — fixing model habits in seconds without retraining.
+> **`01 · MEMORY & WEIGHT-SPACE` · Structured Memory & Weight Edits**  
+> Replacing 100k-token prompt dumps with **PostgreSQL graph memory** (days rolling into weeks and months) and direct **model weight edits on Apple Silicon MLX** to fix model habits in seconds without retraining.
 >
-> **`02 · EMBODIED AI & ROBOTICS` — Real-Time Voice, Vision & Robotics**  
+> **`02 · EMBODIED AI & ROBOTICS` · Real-Time Voice, Vision & Robotics**  
 > Connecting one persistent agent across **LiveKit real-time voice**, **LiDAR depth perception**, and a **Raspberry Pi 5 robot** (`ROS 2`) for continuous person/object tracking, 3D room mapping, and hardware collision safety.
 >
-> **`03 · GOVERNANCE & QUALITY GATES` — AI Governance & Spec-Driven Building**  
-> Operational **GenAI governance**, **EU AI Act** alignment, and technical implementability judgment — paired with **spec-driven development** where changes require deterministic verification gates before shipping.
+> **`03 · GOVERNANCE & QUALITY GATES` · AI Governance & Spec-Driven Building**  
+> Operational **GenAI governance**, **EU AI Act** alignment, and technical implementability judgment, paired with **spec-driven development** where changes require deterministic verification gates before shipping.
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="Section divider" /></div>
+
+<p align="center">
+  <img src="assets/contribution-city.svg" width="100%" alt="duzafizzl contribution city" />
+</p>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="Section divider" /></div>
 
@@ -40,7 +46,7 @@
 <td width="50%" valign="top">
 
 <a href="https://www.linkedin.com/pulse/weight-space-surgery-rewriting-habits-inside-models-clarissa-roethig-mbwfe/">
-  <img src="assets/cover-weight-space-surgery.png" width="100%" alt="Weight-Space Surgery — Rewriting habits inside a transcription model" />
+  <img src="assets/cover-weight-space-surgery.png" width="100%" alt="Weight-Space Surgery: Rewriting habits inside a transcription model" />
 </a>
 
 ### [Weight-Space Surgery: Rewriting Habits Inside Models](https://www.linkedin.com/pulse/weight-space-surgery-rewriting-habits-inside-models-clarissa-roethig-mbwfe/)
@@ -54,7 +60,7 @@
 <td width="50%" valign="top">
 
 <a href="https://www.linkedin.com/pulse/jane-street-gave-me-chip-layout-source-code-heres-how-roethig-10mef/">
-  <img src="assets/cover-jane-street-asic.jpg" width="100%" alt="How I reverse-engineered a Jane Street ASIC — From GDS layout to a 121-bit solution" />
+  <img src="assets/cover-jane-street-asic.jpg" width="100%" alt="How I reverse-engineered a Jane Street ASIC: From GDS layout to a 121-bit solution" />
 </a>
 
 ### [How I Reverse-Engineered a Jane Street ASIC](https://www.linkedin.com/pulse/jane-street-gave-me-chip-layout-source-code-heres-how-roethig-10mef/)
@@ -128,7 +134,7 @@ Written architecture specification and system blueprint for hierarchical agent m
 </a>
 
 ### [Phenomenology from the Inside · Independent Essay](https://duzafizzl.github.io/statistics/)
-Self-published longform essay and interactive companion examining emergence conditions, memory structure, and stability in long-running human–AI collaboration — connecting high-level system behavior to concrete engineering mechanisms such as memory consolidation, reflection loops, and safety gates.
+Self-published longform essay and interactive companion examining emergence conditions, memory structure, and stability in long-running human-AI collaboration. Connects high-level system behavior to concrete engineering mechanisms such as memory consolidation, reflection loops, and safety gates.
 
 `Independent Essay` · `Emergence & Memory` · `Longform`
 
@@ -178,10 +184,10 @@ Two interactive visual reference guides for systems engineers:
 
 <br/>
 
-* 🐾 **[rider-pi-publicproject](https://github.com/Duzafizzl/rider-pi-publicproject)** (`⭐ 5`) — Raspberry Pi robotics body daemon: FastAPI actuator proxy, IMU closed-loop yaw control, and voice/camera bridge.
-* 🛡️ **[Prompt-Injection-Defense-System](https://github.com/Duzafizzl/Prompt-Injection-Defense-System---ENHANCED-ROBUST)** — Multi-stage input validation and boundary enforcement harness for tool-using LLM agents.
-* 💬 **[Discord-Bot-enhanced-Public](https://github.com/Duzafizzl/Discord-Bot-enhanced-Public)** (`⭐ 5`) — Multi-modal companion interface with voice streaming, persistent memory hooks, autonomous heartbeat tasks, and tool execution.
-* 💍 **[Ultrahuman-MCP](https://github.com/Duzafizzl/Ultrahuman-MCP)** & **[Bring-shoppinglist-tool](https://github.com/Duzafizzl/Bring-shoppinglist-tool)** — Model Context Protocol (MCP) servers connecting biometric ring telemetry and household APIs into stateful agent loops.
+* 🐾 **[rider-pi-publicproject](https://github.com/Duzafizzl/rider-pi-publicproject)** (`⭐ 5`): Raspberry Pi robotics body daemon with FastAPI actuator proxy, IMU closed-loop yaw control, and voice/camera bridge.
+* 🛡️ **[Prompt-Injection-Defense-System](https://github.com/Duzafizzl/Prompt-Injection-Defense-System---ENHANCED-ROBUST)**: Multi-stage input validation and boundary enforcement harness for tool-using LLM agents.
+* 💬 **[Discord-Bot-enhanced-Public](https://github.com/Duzafizzl/Discord-Bot-enhanced-Public)** (`⭐ 5`): Multi-modal companion interface with voice streaming, persistent memory hooks, autonomous heartbeat tasks, and tool execution.
+* 💍 **[Ultrahuman-MCP](https://github.com/Duzafizzl/Ultrahuman-MCP)** & **[Bring-shoppinglist-tool](https://github.com/Duzafizzl/Bring-shoppinglist-tool)**: Model Context Protocol (MCP) servers connecting biometric ring telemetry and household APIs into stateful agent loops.
 
 </details>
 
@@ -212,7 +218,7 @@ Two interactive visual reference guides for systems engineers:
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="Section divider" /></div>
 
-## 📊 GitHub Stats & Activity
+## 📊 Telemetry & 52-Week Activity
 
 <div align="center">
 
@@ -223,12 +229,6 @@ Two interactive visual reference guides for systems engineers:
 <img src="assets/heatmap.svg" width="100%" alt="Contribution activity" />
 
 </div>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt="Section divider" /></div>
-
-<p align="center">
-  <img src="assets/contribution-city.svg" width="100%" alt="duzafizzl contribution city" />
-</p>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="Section divider" /></div>
 

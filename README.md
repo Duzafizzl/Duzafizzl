@@ -22,23 +22,28 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="Section divider" /></div>
 
-## ⚡ whoami
+<table>
+<tr>
+<td width="33%" valign="top">
 
-```typescript
-const duzafizzl = {
-  handle:     "duzafizzl",
-  focus:      "Embodied AI, Stateful Memory Architecture & Operational AI Governance",
-  flagship:   "The Miu Project (Substrate + Rasp-Bear Robotics)",
-  methodology: [
-    "Spec-driven development & multi-agent orchestration with deterministic Q-Gates",
-    "Ashby cybernetics: hard safety boundaries (ANS-det T0) + calibrated soft routing (ANS-soft)",
-    "Graph & cascade memory systems (PostgreSQL) + Weight-Space Programming on Apple Silicon MLX",
-    "Production-grade AI governance, EU AI Act alignment & technical implementability judgment"
-  ],
-  arc:        "Industrial shopfloor & robotics quality -> Stateful GenAI & Embodied Systems",
-  mantra:     "Structure beats prompt bloat. Deterministic gates protect the body; cascades & weights carry the mind."
-};
-```
+**`01 · MEMORY & WEIGHT-SPACE`**  
+Moving stable behavior from 100k-token prompts into **PostgreSQL graph cascades** (`Door A/B` recall) and surgical **Apple Silicon MLX** weight edits (`MEMIT/LSQ`).
+
+</td>
+<td width="33%" valign="top">
+
+**`02 · EMBODIED AI & ROBOTICS`**  
+One persistent companion mind across full-duplex **LiveKit voice**, **iPhone & C1 LiDAR**, and a **Pi 5 Mecanum body** (`8 Hz Track-Brain` & voxel SuperMap).
+
+</td>
+<td width="34%" valign="top">
+
+**`03 · CYBERNETICS & GOVERNANCE`**  
+Spec-driven multi-agent engineering with deterministic **Q-Gates**, Ashby safety boundaries (`ANS-det` T0 + `ANS-soft`), and **EU AI Act** implementability standards.
+
+</td>
+</tr>
+</table>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="Section divider" /></div>
 
@@ -79,7 +84,7 @@ const duzafizzl = {
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="Section divider" /></div>
 
-## 🌌 Featured Systems, Interactive Atlases & Architecture Specs
+## 🌌 Featured Systems, Blueprints & Interactive Atlases
 
 <table>
 <tr>
@@ -91,22 +96,21 @@ Interactive 2D/3D architecture map (`L0 -> L2` in Prism) of a persistent compani
 * **Lived Map & Localization:** 4-cm Polycam voxel change detection (`present | moved | gone`), 72-bin `C1 LiDAR` scan matching, Rerun 3D ops with Costmap Lasso/`no_go` zones, and spatio-temporal RAG (`near_xy`).
 * **Cybernetic Control:** Single-producer sensor ownership, calibrated twist `chassis_gate`, IMU `DutyGate`, and sacred `T0` collision guard.
 
-`Interactive 3D Portfolio` · `Embodied AI` · `Robotics`
+`Flagship System` · `Embodied AI` · `Robotics`
 
 <a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/Live_3D_Atlas-14b8a6?style=for-the-badge&labelColor=05131b" alt="Live Atlas" /></a>
 <a href="https://duzafizzl.github.io/miu-project-atlas/atlas/robotics.html"><img src="https://img.shields.io/badge/Robotics_Atlas-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Robotics Deep Dive" /></a>
-<a href="https://github.com/Duzafizzl/miu-project-atlas"><img src="https://img.shields.io/badge/Source-0b292e?style=for-the-badge&labelColor=05131b" alt="Source" /></a>
+<a href="https://github.com/Duzafizzl/miu-project-atlas"><img src="https://img.shields.io/badge/Repo-0b292e?style=for-the-badge&labelColor=05131b" alt="Repo" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 💎 [mermaid-prism · 2D/3D Isometric Diagram Engine](https://duzafizzl.github.io/mermaid-prism/)
-Turns standard Mermaid diagrams into Apple-clean 2D and isometric 3D plates with a step-by-step flow player, semantic visual effects, and interactive subsystem drill-down (`L0 -> L2`). Built to make complex agent and robotics architectures explorable in the browser.
+### 🧬 [substrate-ai · Stateful Agent Framework](https://github.com/Duzafizzl/substrate-ai)
+Open-source foundation for building stateful AI agents with persistent memory blocks, structured tool orchestration, and real-time streaming. Works with any OpenAI-compatible API and provides the core runtime pattern for long-horizon agent coherence over months rather than isolated chat turns.
 
-`Interactive Playground` · `Three.js / WebGL` · `Architecture Tooling`
+`Open-Source Framework` · `Stateful Memory` · `⭐ 21 Stars`
 
-<a href="https://duzafizzl.github.io/mermaid-prism/"><img src="https://img.shields.io/badge/Live_Playground-14b8a6?style=for-the-badge&labelColor=05131b" alt="Live Playground" /></a>
-<a href="https://github.com/Duzafizzl/mermaid-prism"><img src="https://img.shields.io/badge/Repository-0b292e?style=for-the-badge&labelColor=05131b" alt="Repository" /></a>
+<a href="https://github.com/Duzafizzl/substrate-ai"><img src="https://img.shields.io/badge/Explore_Code_(★_21)-14b8a6?style=for-the-badge&labelColor=05131b" alt="substrate-ai" /></a>
 
 </td>
 </tr>
@@ -123,14 +127,38 @@ Written architecture specification and system blueprint for hierarchical agent m
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [Postgres Extensions Atlas](https://duzafizzl.github.io/postgres-extensions-atlas/) & [System-One Pattern Catalog](https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/)
+### 📖 [Phenomenology from the Inside · Independent Essay](https://duzafizzl.github.io/statistics/)
+Self-published longform essay and interactive companion exploring emergence conditions, memory topology, and co-regulation in long-running human–AI systems — grounding philosophical questions in concrete architectural mechanisms (cascade recall, appraisal loops, and boundary invariants).
+
+`Independent Essay` · `Emergence & Memory` · `Longform`
+
+<a href="https://duzafizzl.github.io/statistics/"><img src="https://img.shields.io/badge/Read_Interactive_Essay-e89b32?style=for-the-badge&labelColor=05131b" alt="Read Essay" /></a>
+<a href="https://github.com/Duzafizzl/statistics"><img src="https://img.shields.io/badge/Repo-0b292e?style=for-the-badge&labelColor=05131b" alt="Repo" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💎 [mermaid-prism · 2D/3D Isometric Diagram Engine](https://duzafizzl.github.io/mermaid-prism/)
+Turns standard Mermaid diagrams into Apple-clean 2D and isometric 3D plates with a step-by-step flow player, semantic visual effects, and interactive subsystem drill-down (`L0 -> L2`). Built to make complex agent and robotics architectures explorable in the browser.
+
+`Interactive Playground` · `Three.js / WebGL` · `Architecture Tooling`
+
+<a href="https://duzafizzl.github.io/mermaid-prism/"><img src="https://img.shields.io/badge/Live_Playground-249ea0?style=for-the-badge&labelColor=05131b" alt="Live Playground" /></a>
+<a href="https://github.com/Duzafizzl/mermaid-prism"><img src="https://img.shields.io/badge/Repo-0b292e?style=for-the-badge&labelColor=05131b" alt="Repo" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [Postgres Extensions Atlas](https://duzafizzl.github.io/postgres-extensions-atlas/) & [System-One Catalog](https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/)
 Two interactive visual reference guides for systems engineers:
-* **Postgres Extensions Atlas:** Visual decision map for PostgreSQL extensions across vector search (`pgvector`), graph queries, time-series, and operational indexing.
+* **Postgres Extensions Atlas:** Visual decision map for PostgreSQL extensions across vector search (`pgvector`), graph queries, time-series, and indexing.
 * **System-One (`ANS-soft`) Pattern Catalog:** Interactive catalog showing how calibrated small decision models (`decide()`) pair with deterministic safety gates (`ANS-det`).
 
 `Interactive Guides` · `PostgreSQL` · `System-One (ANS)`
 
-<a href="https://duzafizzl.github.io/postgres-extensions-atlas/"><img src="https://img.shields.io/badge/Postgres_Atlas-249ea0?style=for-the-badge&labelColor=05131b" alt="Postgres Atlas" /></a>
+<a href="https://duzafizzl.github.io/postgres-extensions-atlas/"><img src="https://img.shields.io/badge/Postgres_Atlas-14b8a6?style=for-the-badge&labelColor=05131b" alt="Postgres Atlas" /></a>
 <a href="https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/"><img src="https://img.shields.io/badge/System--One_Catalog-e89b32?style=for-the-badge&labelColor=05131b" alt="System-One Catalog" /></a>
 
 </td>
@@ -138,16 +166,14 @@ Two interactive visual reference guides for systems engineers:
 </table>
 
 <details>
-<summary><b>📂 Additional Open-Source Frameworks, Essays & Robotics</b> &nbsp;<i>(click to expand)</i></summary>
+<summary><b>📂 Hardware Daemons, Security Harnesses & MCP Bridges</b> &nbsp;<i>(click to expand)</i></summary>
 
 <br/>
 
-* 🧬 **[substrate-ai](https://github.com/Duzafizzl/substrate-ai)** (`⭐ 21`) — Open-source foundation for stateful AI agents with persistent memory blocks, tool execution, and real-time streaming (OpenAI-compatible).
-* 📖 **[Independent Essay · Phenomenology from the Inside](https://duzafizzl.github.io/statistics/)** — Self-published longform essay on emergence conditions, memory topology, and human-AI co-regulation · [Read Online](https://duzafizzl.github.io/statistics/) · [Repo](https://github.com/Duzafizzl/statistics)
 * 🐾 **[rider-pi-publicproject](https://github.com/Duzafizzl/rider-pi-publicproject)** (`⭐ 5`) — Raspberry Pi robotics body daemon: FastAPI actuator proxy, IMU closed-loop yaw control, and voice/camera bridge.
-* 💬 **[Discord-Bot-enhanced-Public](https://github.com/Duzafizzl/Discord-Bot-enhanced-Public)** (`⭐ 5`) — Multi-modal companion interface with voice streaming, persistent memory hooks, autonomous heartbeat tasks, and tool execution.
 * 🛡️ **[Prompt-Injection-Defense-System](https://github.com/Duzafizzl/Prompt-Injection-Defense-System---ENHANCED-ROBUST)** — Multi-stage input validation and boundary enforcement harness for tool-using LLM agents.
-* 💍 **[Ultrahuman-MCP](https://github.com/Duzafizzl/Ultrahuman-MCP)** & **[Bring-shoppinglist-tool](https://github.com/Duzafizzl/Bring-shoppinglist-tool)** — MCP servers connecting biometric telemetry and household APIs into agent loops.
+* 💬 **[Discord-Bot-enhanced-Public](https://github.com/Duzafizzl/Discord-Bot-enhanced-Public)** (`⭐ 5`) — Multi-modal companion interface with voice streaming, persistent memory hooks, autonomous heartbeat tasks, and tool execution.
+* 💍 **[Ultrahuman-MCP](https://github.com/Duzafizzl/Ultrahuman-MCP)** & **[Bring-shoppinglist-tool](https://github.com/Duzafizzl/Bring-shoppinglist-tool)** — Model Context Protocol (MCP) servers connecting biometric ring telemetry and household APIs into stateful agent loops.
 
 </details>
 

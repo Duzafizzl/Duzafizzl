@@ -1,72 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="236" viewBox="0 0 860 236" role="img" aria-label="Profile Signal">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="860" height="260" viewBox="0 0 860 260" role="img" aria-label="GitSkins gs-stats-duzafizzl-aurora-dark section">
   <defs>
-    <linearGradient id="stats-bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#041014"/>
-      <stop offset="52%" stop-color="#092228"/>
-      <stop offset="100%" stop-color="#041216"/>
+    <linearGradient id="gs-stats-duzafizzl-aurora-dark-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#042f2e"/>
+      <stop offset="54%" stop-color="#134e4a"/>
+      <stop offset="100%" stop-color="#042f2e"/>
     </linearGradient>
-    <radialGradient id="stats-orb-teal" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#14b8a6" stop-opacity="0.42"/>
-      <stop offset="58%" stop-color="#0d9488" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#0d9488" stop-opacity="0"/>
+    
+    <radialGradient id="gs-stats-duzafizzl-aurora-dark-orb-0" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.72"/>
+      <stop offset="58%" stop-color="#2dd4bf" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="stats-orb-mint" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.32"/>
-      <stop offset="58%" stop-color="#14b8a6" stop-opacity="0.10"/>
+    <radialGradient id="gs-stats-duzafizzl-aurora-dark-orb-1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.5"/>
+      <stop offset="58%" stop-color="#22d3ee" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gs-stats-duzafizzl-aurora-dark-orb-2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#34d399" stop-opacity="0.72"/>
+      <stop offset="58%" stop-color="#34d399" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gs-stats-duzafizzl-aurora-dark-orb-3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#14b8a6" stop-opacity="0.5"/>
+      <stop offset="58%" stop-color="#14b8a6" stop-opacity="0.18"/>
       <stop offset="100%" stop-color="#14b8a6" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="stats-orb-amber" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#e5a93c" stop-opacity="0.22"/>
-      <stop offset="60%" stop-color="#e5a93c" stop-opacity="0.05"/>
-      <stop offset="100%" stop-color="#e5a93c" stop-opacity="0"/>
+    <radialGradient id="gs-stats-duzafizzl-aurora-dark-orb-4" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0d9488" stop-opacity="0.72"/>
+      <stop offset="58%" stop-color="#0d9488" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0d9488" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="stats-shine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.15"/>
-      <stop offset="50%" stop-color="#5eead4" stop-opacity="0.75"/>
-      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0.15"/>
+    <radialGradient id="gs-stats-duzafizzl-aurora-dark-orb-5" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4ade80" stop-opacity="0.5"/>
+      <stop offset="58%" stop-color="#4ade80" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#4ade80" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gs-stats-duzafizzl-aurora-dark-shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ccfbf1" stop-opacity="0.2"/>
+      <stop offset="44%" stop-color="#2dd4bf" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0.22"/>
+    </linearGradient>
+    <linearGradient id="gs-stats-duzafizzl-aurora-dark-holo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ccfbf1"/>
+      <stop offset="18%" stop-color="#042f2e"/>
+      <stop offset="38%" stop-color="#2dd4bf"/>
+      <stop offset="58%" stop-color="#5eead4"/>
+      <stop offset="78%" stop-color="#042f2e"/>
+      <stop offset="100%" stop-color="#ccfbf1"/>
+      
     </linearGradient>
   </defs>
-  <g>
-    <rect width="860" height="236" rx="20" fill="url(#stats-bg)"/>
-    <ellipse cx="150" cy="45" rx="210" ry="110" fill="url(#stats-orb-teal)"/>
-    <ellipse cx="700" cy="195" rx="230" ry="105" fill="url(#stats-orb-mint)"/>
-    <rect x="26" y="22" width="808" height="192" rx="18" fill="rgba(5,16,20,0.58)" stroke="#2dd4bf" stroke-opacity="0.45"/>
-
-    <text x="46" y="58" font-family="Georgia,'Times New Roman',serif" font-size="26" font-weight="600" fill="#f0fdfa">Profile Signal</text>
-
-    <g>
-      <rect x="42" y="78" width="182" height="114" rx="16" fill="rgba(4,14,18,0.68)" stroke="#2dd4bf" stroke-opacity="0.58"/>
-      <text x="62" y="110" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.4" fill="#99f6e4">CONTRIBUTIONS</text>
-      <text x="62" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="33" font-weight="800" letter-spacing="-0.8" fill="#5eead4">4,793</text>
-      <rect x="62" y="168" width="140" height="6" rx="3" fill="rgba(255,255,255,0.08)"/>
-      <rect x="62" y="168" width="134" height="6" rx="3" fill="#2dd4bf"/>
+  
+  <g id="gs-stats-duzafizzl-aurora-dark">
+    <rect width="860" height="260" rx="20" fill="url(#gs-stats-duzafizzl-aurora-dark-bg)"/>
+    
+    <ellipse class="aura-orb-a" cx="138" cy="47" rx="206" ry="120" fill="url(#gs-stats-duzafizzl-aurora-dark-orb-0)"/>
+    <ellipse class="aura-orb-b" cx="654" cy="57" rx="241" ry="109" fill="url(#gs-stats-duzafizzl-aurora-dark-orb-1)"/>
+    <ellipse class="aura-orb-c" cx="499" cy="229" rx="310" ry="88" fill="url(#gs-stats-duzafizzl-aurora-dark-orb-2)"/>
+    <ellipse class="aura-orb-b" cx="826" cy="203" rx="172" ry="109" fill="url(#gs-stats-duzafizzl-aurora-dark-orb-3)"/>
+    
+    <circle class="aura-ring" cx="735" cy="82" r="20.88" fill="none" stroke="#ccfbf1" stroke-opacity="0.36"/>
+    <circle class="aura-ring-b" cx="735" cy="82" r="35.96" fill="none" stroke="#ccfbf1" stroke-opacity="0.22"/>
+    <circle class="aura-ring" cx="735" cy="82" r="58" fill="none" stroke="#ccfbf1" stroke-opacity="0.14"/>
+    <g transform="rotate(-32 735 82)">
+      <circle cx="770.96" cy="82" r="4" fill="#2dd4bf">
+        
+      </circle>
     </g>
-
-    <g>
-      <rect x="240" y="78" width="182" height="114" rx="16" fill="rgba(4,14,18,0.68)" stroke="#2dd4bf" stroke-opacity="0.58"/>
-      <text x="260" y="110" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.4" fill="#99f6e4">STARS</text>
-      <text x="260" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="33" font-weight="800" letter-spacing="-0.8" fill="#e5a93c">34</text>
-      <rect x="260" y="168" width="140" height="6" rx="3" fill="rgba(255,255,255,0.08)"/>
-      <rect x="260" y="168" width="78" height="6" rx="3" fill="#e5a93c"/>
+    <rect x="28" y="26" width="804" height="206" rx="20" fill="rgba(8,8,12,0.5)" stroke="#2dd4bf" stroke-opacity="0.48"/>
+    <text x="46" y="61" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="28" font-weight="850" letter-spacing="-0.5" fill="#ccfbf1">Profile Signal</text>
+    
+    <g class="aura-chip" style="animation-delay:0ms">
+      <rect x="34" y="92" width="180" height="122" rx="18" fill="rgba(8,8,12,0.5)" stroke="#2dd4bf" stroke-opacity="0.72"/>
+      <text x="56" y="126" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="800" letter-spacing="1.4" fill="#5eead4">Stars</text>
+      <text x="56" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="35" font-weight="900" letter-spacing="-0.8" fill="#41d8c5">34</text>
+      <rect x="56" y="186" width="136" height="7" rx="3.5" fill="rgba(255,255,255,0.1)"/>
+      <rect class="aura-bar" x="56" y="186" width="11" height="7" rx="3.5" fill="#41d8c5" opacity="0.9"/>
+    </g><g class="aura-chip" style="animation-delay:100ms">
+      <rect x="238" y="92" width="180" height="122" rx="18" fill="rgba(8,8,12,0.5)" stroke="#2dd4bf" stroke-opacity="0.72"/>
+      <text x="260" y="126" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="800" letter-spacing="1.4" fill="#5eead4">Contributions</text>
+      <text x="260" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="35" font-weight="900" letter-spacing="-0.8" fill="#2dd4bf">4,793</text>
+      <rect x="260" y="186" width="136" height="7" rx="3.5" fill="rgba(255,255,255,0.1)"/>
+      <rect class="aura-bar" x="260" y="186" width="136" height="7" rx="3.5" fill="#2dd4bf" opacity="0.9"/>
+    </g><g class="aura-chip" style="animation-delay:200ms">
+      <rect x="442" y="92" width="180" height="122" rx="18" fill="rgba(8,8,12,0.5)" stroke="#2dd4bf" stroke-opacity="0.72"/>
+      <text x="464" y="126" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="800" letter-spacing="1.4" fill="#5eead4">Repos</text>
+      <text x="464" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="35" font-weight="900" letter-spacing="-0.8" fill="#34d399">12</text>
+      <rect x="464" y="186" width="136" height="7" rx="3.5" fill="rgba(255,255,255,0.1)"/>
+      <rect class="aura-bar" x="464" y="186" width="11" height="7" rx="3.5" fill="#34d399" opacity="0.9"/>
+    </g><g class="aura-chip" style="animation-delay:300ms">
+      <rect x="646" y="92" width="180" height="122" rx="18" fill="rgba(8,8,12,0.5)" stroke="#2dd4bf" stroke-opacity="0.72"/>
+      <text x="668" y="126" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="800" letter-spacing="1.4" fill="#5eead4">Followers</text>
+      <text x="668" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="35" font-weight="900" letter-spacing="-0.8" fill="#2ad5ef">11</text>
+      <rect x="668" y="186" width="136" height="7" rx="3.5" fill="rgba(255,255,255,0.1)"/>
+      <rect class="aura-bar" x="668" y="186" width="11" height="7" rx="3.5" fill="#2ad5ef" opacity="0.9"/>
     </g>
-
-    <g>
-      <rect x="438" y="78" width="182" height="114" rx="16" fill="rgba(4,14,18,0.68)" stroke="#2dd4bf" stroke-opacity="0.58"/>
-      <text x="458" y="110" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.4" fill="#99f6e4">PUBLIC REPOS</text>
-      <text x="458" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="33" font-weight="800" letter-spacing="-0.8" fill="#2dd4bf">12</text>
-      <rect x="458" y="168" width="140" height="6" rx="3" fill="rgba(255,255,255,0.08)"/>
-      <rect x="458" y="168" width="88" height="6" rx="3" fill="#14b8a6"/>
-    </g>
-
-    <g>
-      <rect x="636" y="78" width="182" height="114" rx="16" fill="rgba(4,14,18,0.68)" stroke="#2dd4bf" stroke-opacity="0.58"/>
-      <text x="656" y="110" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.4" fill="#99f6e4">SUBSYSTEMS</text>
-      <text x="656" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="33" font-weight="800" letter-spacing="-0.8" fill="#5eead4">10</text>
-      <rect x="656" y="168" width="140" height="6" rx="3" fill="rgba(255,255,255,0.08)"/>
-      <rect x="656" y="168" width="118" height="6" rx="3" fill="#5eead4"/>
-    </g>
-
-    <rect x="0.5" y="0.5" width="859" height="235" rx="19.5" fill="none" stroke="#2dd4bf" stroke-opacity="0.55"/>
+    
+    <rect x="0.5" y="0.5" width="859" height="259" rx="19.5" fill="none" stroke="#2dd4bf" stroke-opacity="0.62"/>
   </g>
 </svg>

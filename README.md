@@ -1,6 +1,6 @@
 <!--
   File: README.md
-  Description: Pseudonymous recruiter-ready GitHub profile README for Duzafizzl in the Liquid AI / Weight-Space Surgery LinkedIn CI style — unslopped and free of unexplained internal jargon.
+  Description: Mobile- and Desktop-optimized GitHub profile README for Duzafizzl in the Liquid AI / Weight-Space Surgery LinkedIn CI style.
   Created: 2026-11-12
   Last updated: 2026-11-12
 -->
@@ -22,31 +22,14 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="Section divider" /></div>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**`01 · MEMORY & WEIGHT-SPACE`**  
-**Structured Memory & Weight Edits**  
-Replacing 100k-token prompt dumps with **PostgreSQL graph memory** (days rolling into weeks and months) and direct **model weight edits on Apple Silicon MLX** — fixing model habits in seconds without retraining.
-
-</td>
-<td width="33%" valign="top">
-
-**`02 · EMBODIED AI & ROBOTICS`**  
-**Real-Time Voice, Vision & Robotics**  
-Connecting one persistent agent across **LiveKit real-time voice**, **LiDAR depth perception**, and a **Raspberry Pi 5 robot** (`ROS 2`) for continuous person/object tracking, 3D room mapping, and hardware collision safety.
-
-</td>
-<td width="34%" valign="top">
-
-**`03 · GOVERNANCE & QUALITY GATES`**  
-**AI Governance & Spec-Driven Building**  
-Operational **GenAI governance**, **EU AI Act** alignment, and technical implementability judgment — paired with **spec-driven development** where changes require deterministic verification gates before shipping.
-
-</td>
-</tr>
-</table>
+> **`01 · MEMORY & WEIGHT-SPACE` — Structured Memory & Weight Edits**  
+> Replacing 100k-token prompt dumps with **PostgreSQL graph memory** (days rolling into weeks and months) and direct **model weight edits on Apple Silicon MLX** — fixing model habits in seconds without retraining.
+>
+> **`02 · EMBODIED AI & ROBOTICS` — Real-Time Voice, Vision & Robotics**  
+> Connecting one persistent agent across **LiveKit real-time voice**, **LiDAR depth perception**, and a **Raspberry Pi 5 robot** (`ROS 2`) for continuous person/object tracking, 3D room mapping, and hardware collision safety.
+>
+> **`03 · GOVERNANCE & QUALITY GATES` — AI Governance & Spec-Driven Building**  
+> Operational **GenAI governance**, **EU AI Act** alignment, and technical implementability judgment — paired with **spec-driven development** where changes require deterministic verification gates before shipping.
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="Section divider" /></div>
 
@@ -99,9 +82,9 @@ Operational **GenAI governance**, **EU AI Act** alignment, and technical impleme
 
 ### [The Miu Project · Interactive 3D & Robotics Atlas](https://duzafizzl.github.io/miu-project-atlas/)
 Interactive 2D/3D architecture portfolio (`Mac mini M4` brain + `Raspberry Pi 5` Mecanum robot):
-* **8 Hz Continuous Tracking:** Person and object following that fuses vision-language models (`Liquid LFM3-VL`), segmentation (`YOLO26n-seg`), and live iPhone LiDAR depth streams.
+* **8 Hz Continuous Tracking:** Person and object following fusing `Liquid LFM3-VL`, `YOLO26n-seg`, and live iPhone LiDAR depth streams.
 * **3D Room Mapping & Localization:** 4-cm voxel change detection (spotting moved or missing objects), `C1 LiDAR` scan matching, Rerun 3D operator views with no-go zones, and location-aware memory recall.
-* **Hardware Safety Boundaries:** Strict single-owner sensor buses, calibrated velocity control (`ROS 2` twist), closed-loop IMU turns, and an independent ultrasonic collision guard.
+* **Hardware Safety Boundaries:** Single-owner sensor buses, calibrated `ROS 2` twist velocity control, closed-loop IMU turns, and an independent ultrasonic collision guard.
 
 <a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/Live_3D_Atlas-14b8a6?style=for-the-badge&labelColor=05131b" alt="Live Atlas" /></a>
 <a href="https://duzafizzl.github.io/miu-project-atlas/atlas/robotics.html"><img src="https://img.shields.io/badge/Robotics_Atlas-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Robotics Deep Dive" /></a>

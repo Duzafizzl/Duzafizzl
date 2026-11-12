@@ -1,6 +1,6 @@
 <!--
   File: README.md
-  Description: Pseudonymous recruiter-ready GitHub profile README for Duzafizzl in the Liquid AI / Weight-Space Surgery LinkedIn CI style.
+  Description: Pseudonymous recruiter-ready GitHub profile README for Duzafizzl in the Liquid AI / Weight-Space Surgery LinkedIn CI style with custom header cards for all featured repos.
   Created: 2026-11-12
   Last updated: 2026-11-12
 -->
@@ -90,13 +90,15 @@ Spec-driven multi-agent engineering with deterministic **Q-Gates**, Ashby safety
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ [The Miu Project · Interactive 3D & Robotics Atlas](https://duzafizzl.github.io/miu-project-atlas/)
+<a href="https://duzafizzl.github.io/miu-project-atlas/">
+  <img src="assets/card-miu-atlas.svg" width="100%" alt="The Miu Project · 3D & Robotics Atlas" />
+</a>
+
+### [The Miu Project · Interactive 3D & Robotics Atlas](https://duzafizzl.github.io/miu-project-atlas/)
 Interactive 2D/3D architecture map (`L0 -> L2` in Prism) of a persistent companion mind (`Mac mini M4`) and Mecanum robot body (`Pi 5`):
 * **8 Hz Track-Brain:** Continuous person & object follow fusing `Liquid LFM3-VL`, `YOLO26n-seg`, and live iPhone LiDAR depth (`WorldAnchor3D`).
 * **Lived Map & Localization:** 4-cm Polycam voxel change detection (`present | moved | gone`), 72-bin `C1 LiDAR` scan matching, Rerun 3D ops with Costmap Lasso/`no_go` zones, and spatio-temporal RAG (`near_xy`).
 * **Cybernetic Control:** Single-producer sensor ownership, calibrated twist `chassis_gate`, IMU `DutyGate`, and sacred `T0` collision guard.
-
-`Flagship System` · `Embodied AI` · `Robotics`
 
 <a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/Live_3D_Atlas-14b8a6?style=for-the-badge&labelColor=05131b" alt="Live Atlas" /></a>
 <a href="https://duzafizzl.github.io/miu-project-atlas/atlas/robotics.html"><img src="https://img.shields.io/badge/Robotics_Atlas-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Robotics Deep Dive" /></a>
@@ -105,7 +107,11 @@ Interactive 2D/3D architecture map (`L0 -> L2` in Prism) of a persistent compani
 </td>
 <td width="50%" valign="top">
 
-### 🧬 [substrate-ai · Stateful Agent Framework](https://github.com/Duzafizzl/substrate-ai)
+<a href="https://github.com/Duzafizzl/substrate-ai">
+  <img src="assets/card-substrate-ai.svg" width="100%" alt="substrate-ai · Stateful Agent Framework" />
+</a>
+
+### [substrate-ai · Stateful Agent Framework](https://github.com/Duzafizzl/substrate-ai)
 Open-source foundation for building stateful AI agents with persistent memory blocks, structured tool orchestration, and real-time streaming. Works with any OpenAI-compatible API and provides the core runtime pattern for long-horizon agent coherence over months rather than isolated chat turns.
 
 `Open-Source Framework` · `Stateful Memory` · `⭐ 21 Stars`
@@ -117,7 +123,11 @@ Open-source foundation for building stateful AI agents with persistent memory bl
 <tr>
 <td width="50%" valign="top">
 
-### 🌊 [Kaskade-Memory · Architecture Blueprint & Spec](https://github.com/Duzafizzl/Kaskade-Memory)
+<a href="https://github.com/Duzafizzl/Kaskade-Memory">
+  <img src="assets/card-kaskade-memory.svg" width="100%" alt="Kaskade-Memory · Architecture Blueprint & Spec" />
+</a>
+
+### [Kaskade-Memory · Architecture Blueprint & Spec](https://github.com/Duzafizzl/Kaskade-Memory)
 Written architecture specification and system blueprint for hierarchical agent memory (`docs/MEMORY_SYSTEM_BLUEPRINT.md`). Documents how daily episodes compress into weekly and monthly layers, how `Gnostic Spark` (Door A cue) and `Bridge Rise` (Door B ≥2 signal convergence) operate without an LLM in the ranking path, and how `ERIP` privacy gating (`P = 5`) protects sensitive context.
 
 `Architecture Blueprint` · `Memory Spec` · `Deterministic Recall`
@@ -127,7 +137,11 @@ Written architecture specification and system blueprint for hierarchical agent m
 </td>
 <td width="50%" valign="top">
 
-### 📖 [Phenomenology from the Inside · Independent Essay](https://duzafizzl.github.io/statistics/)
+<a href="https://duzafizzl.github.io/statistics/">
+  <img src="assets/card-phenomenology.svg" width="100%" alt="Phenomenology from the Inside · Independent Essay" />
+</a>
+
+### [Phenomenology from the Inside · Independent Essay](https://duzafizzl.github.io/statistics/)
 Self-published longform essay and interactive companion exploring emergence conditions, memory topology, and co-regulation in long-running human–AI systems — grounding philosophical questions in concrete architectural mechanisms (cascade recall, appraisal loops, and boundary invariants).
 
 `Independent Essay` · `Emergence & Memory` · `Longform`
@@ -140,7 +154,11 @@ Self-published longform essay and interactive companion exploring emergence cond
 <tr>
 <td width="50%" valign="top">
 
-### 💎 [mermaid-prism · 2D/3D Isometric Diagram Engine](https://duzafizzl.github.io/mermaid-prism/)
+<a href="https://duzafizzl.github.io/mermaid-prism/">
+  <img src="assets/card-mermaid-prism.svg" width="100%" alt="mermaid-prism · 2D/3D Isometric Diagram Engine" />
+</a>
+
+### [mermaid-prism · 2D/3D Isometric Diagram Engine](https://duzafizzl.github.io/mermaid-prism/)
 Turns standard Mermaid diagrams into Apple-clean 2D and isometric 3D plates with a step-by-step flow player, semantic visual effects, and interactive subsystem drill-down (`L0 -> L2`). Built to make complex agent and robotics architectures explorable in the browser.
 
 `Interactive Playground` · `Three.js / WebGL` · `Architecture Tooling`
@@ -151,7 +169,11 @@ Turns standard Mermaid diagrams into Apple-clean 2D and isometric 3D plates with
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [Postgres Extensions Atlas](https://duzafizzl.github.io/postgres-extensions-atlas/) & [System-One Catalog](https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/)
+<a href="https://duzafizzl.github.io/postgres-extensions-atlas/">
+  <img src="assets/card-atlases-catalog.svg" width="100%" alt="Postgres Extensions Atlas & System-One Catalog" />
+</a>
+
+### [Postgres Extensions Atlas](https://duzafizzl.github.io/postgres-extensions-atlas/) & [System-One Catalog](https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/)
 Two interactive visual reference guides for systems engineers:
 * **Postgres Extensions Atlas:** Visual decision map for PostgreSQL extensions across vector search (`pgvector`), graph queries, time-series, and indexing.
 * **System-One (`ANS-soft`) Pattern Catalog:** Interactive catalog showing how calibrated small decision models (`decide()`) pair with deterministic safety gates (`ANS-det`).

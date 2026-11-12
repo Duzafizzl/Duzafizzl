@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-label="Postgres &amp; ANS">
+  <defs>
+    <linearGradient id="cb-bg-catalog" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020c12"/>
+      <stop offset="55%" stop-color="#061d28"/>
+      <stop offset="100%" stop-color="#031017"/>
+    </linearGradient>
+    <radialGradient id="cb-glow-catalog" cx="78%" cy="20%" r="52%">
+      <stop offset="0%" stop-color="#14b8a6" stop-opacity="0.22"/>
+      <stop offset="65%" stop-color="#0d9488" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#020c12" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="cb-wave-catalog" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2ec4b6" stop-opacity="0.0"/>
+      <stop offset="40%" stop-color="#4de8d6" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#2ec4b6" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="640" height="240" rx="12" fill="url(#cb-bg-catalog)" stroke="#163a4a" stroke-width="1"/>
+  <rect width="640" height="240" rx="12" fill="url(#cb-glow-catalog)"/>
+
+  <path d="M 0 188 Q 140 154, 280 176 T 560 148 T 640 158" fill="none" stroke="url(#cb-wave-catalog)" stroke-width="1.3"/>
+  <path d="M 0 202 Q 160 172, 320 190 T 640 170" fill="none" stroke="url(#cb-wave-catalog)" stroke-width="0.8"/>
+
+  <text x="32" y="46" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="600" letter-spacing="2.4" fill="#5eead4">INTERACTIVE GUIDES · SYSTEMS</text>
+  <text x="32" y="102" font-family="Georgia,'Iowan Old Style','Times New Roman',serif" font-size="38" font-weight="400" letter-spacing="-0.5" fill="#f2fbf9">Postgres &amp; ANS</text>
+  <text x="32" y="136" font-family="-apple-system,BlinkMacSystemFont,'Inter','Segoe UI',sans-serif" font-size="14.5" font-weight="400" fill="#d5ebe8">Extensions Atlas &amp; System-One Pattern Catalog</text>
+  <text x="32" y="206" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#7faeb0">duzafizzl · pgvector · Graph · ANS-soft / T0</text>
+  
+    <g transform="translate(425, 28)">
+      <rect x="0" y="0" width="184" height="184" rx="22" fill="#031017" fill-opacity="0.88" stroke="#2ec4b6" stroke-opacity="0.38" stroke-width="1.3"/>
+      <!-- Left: Database Cylinder / Vector Grid -->
+      <rect x="26" y="38" width="54" height="22" rx="6" fill="#155263" stroke="#4de8d6" stroke-width="1.3"/>
+      <rect x="26" y="68" width="54" height="22" rx="6" fill="#11404d" stroke="#249ea0" stroke-width="1.3"/>
+      <rect x="26" y="98" width="54" height="22" rx="6" fill="#0c2d3c" stroke="#249ea0" stroke-width="1.3"/>
+      <!-- Right: System-One Gate -->
+      <line x1="80" y1="79" x2="112" y2="79" stroke="#4de8d6" stroke-width="1.6"/>
+      <rect x="112" y="61" width="44" height="36" rx="8" fill="#e89b32"/>
+      <text x="134" y="83" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,monospace" font-size="11" font-weight="700" fill="#031017">ANS</text>
+      <text x="92" y="152" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,monospace" font-size="10" fill="#7faeb0">PG · SYSTEM-1</text>
+    </g>
+</svg>

@@ -72,6 +72,39 @@ const duzafizzl = {
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=duzafizzl&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
+## 📰 Featured Engineering Write-ups
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://www.linkedin.com/pulse/weight-space-surgery-rewriting-habits-inside-models-clarissa-roethig-mbwfe/">
+  <img src="assets/cover-weight-space-surgery.png" width="100%" alt="Weight-Space Surgery — Rewriting habits inside a transcription model" />
+</a>
+
+### [Weight-Space Surgery: Rewriting Habits Inside Models](https://www.linkedin.com/pulse/weight-space-surgery-rewriting-habits-inside-models-clarissa-roethig-mbwfe/)
+Isolated a German public-TV subtitle hallucination (*"Untertitelung des ZDF, 2020"*) in `LFM3-Audio-2B` (`MLX bfloat16`) to **Layer 22 · Col `#4543`** and cut it in 4 seconds via rank-1 orthogonal projection — plus covariance-regularized LSQ voice timbre calibration (`0.00` WER) and why 104,703 prompt tokens belong in a 3-tier weight/cascade architecture.
+
+<a href="https://www.linkedin.com/pulse/weight-space-surgery-rewriting-habits-inside-models-clarissa-roethig-mbwfe/"><img src="https://img.shields.io/badge/Read_Case_Study-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="Read Case Study" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://www.linkedin.com/pulse/jane-street-gave-me-chip-layout-source-code-heres-how-roethig-10mef/">
+  <img src="assets/cover-jane-street-asic.jpg" width="100%" alt="How I reverse-engineered a Jane Street ASIC — From GDS layout to a 121-bit solution" />
+</a>
+
+### [How I Reverse-Engineered a Jane Street ASIC](https://www.linkedin.com/pulse/jane-street-gave-me-chip-layout-source-code-heres-how-roethig-10mef/)
+Started with a raw physical chip layout (`GDSII`) and zero source code: reconstructed standard cells, traced metal routing layers back into a gate-level netlist, and solved the embedded hardware logic puzzle down to the exact **121-bit solution**.
+
+<a href="https://www.linkedin.com/pulse/jane-street-gave-me-chip-layout-source-code-heres-how-roethig-10mef/"><img src="https://img.shields.io/badge/Read_Write--up-00FFA3?style=for-the-badge&labelColor=0d1117" alt="Read Write-up" /></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=duzafizzl&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
 ## 🌌 Featured Systems & Artifacts
 
 <table>

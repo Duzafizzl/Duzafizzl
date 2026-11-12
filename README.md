@@ -1,6 +1,6 @@
 <!--
   File: README.md
-  Description: Pseudonymous recruiter-ready GitHub profile README for Duzafizzl in the Liquid AI / Weight-Space Surgery LinkedIn CI style with custom header cards for all featured repos.
+  Description: Pseudonymous recruiter-ready GitHub profile README for Duzafizzl in the Liquid AI / Weight-Space Surgery LinkedIn CI style — unslopped and free of unexplained internal jargon.
   Created: 2026-11-12
   Last updated: 2026-11-12
 -->
@@ -16,7 +16,7 @@
 <a href="https://duzafizzl.github.io/miu-project-atlas/atlas/robotics.html"><img src="https://img.shields.io/badge/Robotics_Atlas-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Robotics Atlas" /></a>
 <a href="https://duzafizzl.github.io/mermaid-prism/"><img src="https://img.shields.io/badge/Mermaid_Prism_(3D)-249ea0?style=for-the-badge&labelColor=05131b" alt="Mermaid Prism" /></a>
 <a href="https://duzafizzl.github.io/postgres-extensions-atlas/"><img src="https://img.shields.io/badge/Postgres_Atlas-196b75?style=for-the-badge&labelColor=05131b" alt="Postgres Extensions Atlas" /></a>
-<a href="https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/"><img src="https://img.shields.io/badge/System--One_Catalog-e89b32?style=for-the-badge&labelColor=05131b" alt="System-One Pattern Catalog" /></a>
+<a href="https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/"><img src="https://img.shields.io/badge/Decision_Pattern_Catalog-e89b32?style=for-the-badge&labelColor=05131b" alt="Decision Pattern Catalog" /></a>
 
 </div>
 
@@ -27,19 +27,22 @@
 <td width="33%" valign="top">
 
 **`01 · MEMORY & WEIGHT-SPACE`**  
-Moving stable behavior from 100k-token prompts into **PostgreSQL graph cascades** (`Door A/B` recall) and surgical **Apple Silicon MLX** weight edits (`MEMIT/LSQ`).
+**Structured Memory & Weight Edits**  
+Replacing 100k-token prompt dumps with **PostgreSQL graph memory** (days rolling into weeks and months) and direct **model weight edits on Apple Silicon MLX** — fixing model habits in seconds without retraining.
 
 </td>
 <td width="33%" valign="top">
 
 **`02 · EMBODIED AI & ROBOTICS`**  
-One persistent companion mind across full-duplex **LiveKit voice**, **iPhone & C1 LiDAR**, and a **Pi 5 Mecanum body** (`8 Hz Track-Brain` & voxel SuperMap).
+**Real-Time Voice, Vision & Robotics**  
+Connecting one persistent agent across **LiveKit real-time voice**, **LiDAR depth perception**, and a **Raspberry Pi 5 robot** (`ROS 2`) for continuous person/object tracking, 3D room mapping, and hardware collision safety.
 
 </td>
 <td width="34%" valign="top">
 
-**`03 · CYBERNETICS & GOVERNANCE`**  
-Spec-driven multi-agent engineering with deterministic **Q-Gates**, Ashby safety boundaries (`ANS-det` T0 + `ANS-soft`), and **EU AI Act** implementability standards.
+**`03 · GOVERNANCE & QUALITY GATES`**  
+**AI Governance & Spec-Driven Building**  
+Operational **GenAI governance**, **EU AI Act** alignment, and technical implementability judgment — paired with **spec-driven development** where changes require deterministic verification gates before shipping.
 
 </td>
 </tr>
@@ -58,9 +61,9 @@ Spec-driven multi-agent engineering with deterministic **Q-Gates**, Ashby safety
 </a>
 
 ### [Weight-Space Surgery: Rewriting Habits Inside Models](https://www.linkedin.com/pulse/weight-space-surgery-rewriting-habits-inside-models-clarissa-roethig-mbwfe/)
-* **Layer 22 · Col `#4543` Purge:** Isolated a German public-TV subtitle hallucination (*"Untertitelung des ZDF, 2020"* on silence) in `LFM3-Audio-2B` (`MLX bfloat16`) to a single MLP column and projected it out in 4 seconds (`0.41%` of layer weights, zero retraining).
-* **Covariance-Protected Voice LSQ:** Solved a MEMIT-style least-squares edit (`(XᵀX + λI)⁻¹`) on `LiquidCodec`, lifting target timbre similarity (`-0.06 -> +0.24`) at `0.00` Word Error Rate.
-* **3-Tier Memory Cascade (104k -> ~8k Tokens):** Replaced static prompt dumps with hot working memory, `<2 ms` Door A/B cascades, and nightly weight promotion under a `--tolerance 0` regression gate.
+* **Surgical Hallucination Fix (Layer 22 · Col `#4543`):** Traced a German public-TV subtitle hallucination (*"Untertitelung des ZDF, 2020"* on silence) in `LFM3-Audio-2B` (`MLX bfloat16`) to a single MLP column and removed it in 4 seconds (`0.41%` of layer weights, zero retraining).
+* **Covariance-Protected Voice Calibration:** Solved a regularized least-squares edit (`(XᵀX + λI)⁻¹`) on `LiquidCodec`, lifting target voice similarity (`-0.06 -> +0.24`) while holding German transcription Word Error Rate at `0.00`.
+* **104k -> ~8k Token Memory Cascade:** Replaced a 6.7-second static prompt prefill with hot working memory, sub-2ms paragraph retrieval, and nightly weight consolidation.
 
 <a href="https://www.linkedin.com/pulse/weight-space-surgery-rewriting-habits-inside-models-clarissa-roethig-mbwfe/"><img src="https://img.shields.io/badge/Read_Case_Study-14b8a6?style=for-the-badge&labelColor=05131b" alt="Read Case Study" /></a>
 
@@ -72,9 +75,9 @@ Spec-driven multi-agent engineering with deterministic **Q-Gates**, Ashby safety
 </a>
 
 ### [How I Reverse-Engineered a Jane Street ASIC](https://www.linkedin.com/pulse/jane-street-gave-me-chip-layout-source-code-heres-how-roethig-10mef/)
-* **GDSII to Gate-Level Netlist:** Started with a raw physical silicon layout and zero source code or cell library definitions.
-* **Physical Layer Extraction:** Reconstructed CMOS standard cells from diffusion, poly, and metal routing layers to recover the boolean logic graph.
-* **Constraint Solving:** Simplified the extracted netlist and solved the embedded hardware logic puzzle down to the exact **121-bit solution**.
+* **Chip Layout to Gate-Level Netlist:** Started from a raw physical silicon layout (`GDSII`) with zero source code or cell library definitions.
+* **Physical Layer Reconstruction:** Extracted CMOS standard cells from diffusion, polysilicon, and metal routing layers to recover the underlying boolean logic graph.
+* **Logic Puzzle Solution:** Simplified the extracted gate netlist and solved the embedded hardware constraint puzzle down to the exact **121-bit key**.
 
 <a href="https://www.linkedin.com/pulse/jane-street-gave-me-chip-layout-source-code-heres-how-roethig-10mef/"><img src="https://img.shields.io/badge/Read_Write--up-e89b32?style=for-the-badge&labelColor=05131b" alt="Read Write-up" /></a>
 
@@ -95,10 +98,10 @@ Spec-driven multi-agent engineering with deterministic **Q-Gates**, Ashby safety
 </a>
 
 ### [The Miu Project · Interactive 3D & Robotics Atlas](https://duzafizzl.github.io/miu-project-atlas/)
-Interactive 2D/3D architecture map (`L0 -> L2` in Prism) of a persistent companion mind (`Mac mini M4`) and Mecanum robot body (`Pi 5`):
-* **8 Hz Track-Brain:** Continuous person & object follow fusing `Liquid LFM3-VL`, `YOLO26n-seg`, and live iPhone LiDAR depth (`WorldAnchor3D`).
-* **Lived Map & Localization:** 4-cm Polycam voxel change detection (`present | moved | gone`), 72-bin `C1 LiDAR` scan matching, Rerun 3D ops with Costmap Lasso/`no_go` zones, and spatio-temporal RAG (`near_xy`).
-* **Cybernetic Control:** Single-producer sensor ownership, calibrated twist `chassis_gate`, IMU `DutyGate`, and sacred `T0` collision guard.
+Interactive 2D/3D architecture portfolio (`Mac mini M4` brain + `Raspberry Pi 5` Mecanum robot):
+* **8 Hz Continuous Tracking:** Person and object following that fuses vision-language models (`Liquid LFM3-VL`), segmentation (`YOLO26n-seg`), and live iPhone LiDAR depth streams.
+* **3D Room Mapping & Localization:** 4-cm voxel change detection (spotting moved or missing objects), `C1 LiDAR` scan matching, Rerun 3D operator views with no-go zones, and location-aware memory recall.
+* **Hardware Safety Boundaries:** Strict single-owner sensor buses, calibrated velocity control (`ROS 2` twist), closed-loop IMU turns, and an independent ultrasonic collision guard.
 
 <a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/Live_3D_Atlas-14b8a6?style=for-the-badge&labelColor=05131b" alt="Live Atlas" /></a>
 <a href="https://duzafizzl.github.io/miu-project-atlas/atlas/robotics.html"><img src="https://img.shields.io/badge/Robotics_Atlas-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Robotics Deep Dive" /></a>
@@ -128,7 +131,7 @@ Open-source foundation for building stateful AI agents with persistent memory bl
 </a>
 
 ### [Kaskade-Memory · Architecture Blueprint & Spec](https://github.com/Duzafizzl/Kaskade-Memory)
-Written architecture specification and system blueprint for hierarchical agent memory (`docs/MEMORY_SYSTEM_BLUEPRINT.md`). Documents how daily episodes compress into weekly and monthly layers, how `Gnostic Spark` (Door A cue) and `Bridge Rise` (Door B ≥2 signal convergence) operate without an LLM in the ranking path, and how `ERIP` privacy gating (`P = 5`) protects sensitive context.
+Written architecture specification and system blueprint for hierarchical agent memory (`docs/MEMORY_SYSTEM_BLUEPRINT.md`). Documents how daily logs roll into weekly and monthly summaries, how associative recall triggers when multiple independent cues converge (without calling an LLM in the ranking path), and how privacy tiers prevent sensitive notes from leaking into spontaneous prompts.
 
 `Architecture Blueprint` · `Memory Spec` · `Deterministic Recall`
 
@@ -142,7 +145,7 @@ Written architecture specification and system blueprint for hierarchical agent m
 </a>
 
 ### [Phenomenology from the Inside · Independent Essay](https://duzafizzl.github.io/statistics/)
-Self-published longform essay and interactive companion exploring emergence conditions, memory topology, and co-regulation in long-running human–AI systems — grounding philosophical questions in concrete architectural mechanisms (cascade recall, appraisal loops, and boundary invariants).
+Self-published longform essay and interactive companion examining emergence conditions, memory structure, and stability in long-running human–AI collaboration — connecting high-level system behavior to concrete engineering mechanisms such as memory consolidation, reflection loops, and safety gates.
 
 `Independent Essay` · `Emergence & Memory` · `Longform`
 
@@ -159,7 +162,7 @@ Self-published longform essay and interactive companion exploring emergence cond
 </a>
 
 ### [mermaid-prism · 2D/3D Isometric Diagram Engine](https://duzafizzl.github.io/mermaid-prism/)
-Turns standard Mermaid diagrams into Apple-clean 2D and isometric 3D plates with a step-by-step flow player, semantic visual effects, and interactive subsystem drill-down (`L0 -> L2`). Built to make complex agent and robotics architectures explorable in the browser.
+Turns standard Mermaid diagrams into clean 2D and isometric 3D plates with a step-by-step flow player, semantic visual effects, and interactive subsystem drill-down (`L0 -> L2`). Built to make complex agent and robotics architectures explorable in the browser.
 
 `Interactive Playground` · `Three.js / WebGL` · `Architecture Tooling`
 
@@ -170,18 +173,18 @@ Turns standard Mermaid diagrams into Apple-clean 2D and isometric 3D plates with
 <td width="50%" valign="top">
 
 <a href="https://duzafizzl.github.io/postgres-extensions-atlas/">
-  <img src="assets/card-atlases-catalog.svg" width="100%" alt="Postgres Extensions Atlas & System-One Catalog" />
+  <img src="assets/card-atlases-catalog.svg" width="100%" alt="Postgres Extensions Atlas & Decision Pattern Catalog" />
 </a>
 
-### [Postgres Extensions Atlas](https://duzafizzl.github.io/postgres-extensions-atlas/) & [System-One Catalog](https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/)
+### [Postgres Extensions Atlas](https://duzafizzl.github.io/postgres-extensions-atlas/) & [Decision Pattern Catalog](https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/)
 Two interactive visual reference guides for systems engineers:
-* **Postgres Extensions Atlas:** Visual decision map for PostgreSQL extensions across vector search (`pgvector`), graph queries, time-series, and indexing.
-* **System-One (`ANS-soft`) Pattern Catalog:** Interactive catalog showing how calibrated small decision models (`decide()`) pair with deterministic safety gates (`ANS-det`).
+* **Postgres Extensions Atlas:** Visual decision map for PostgreSQL extensions across vector search (`pgvector`), graph queries, time-series, and operational indexing.
+* **System-One Decision Pattern Catalog:** Interactive catalog showing how fast, calibrated routing models pair with hard deterministic safety rules.
 
-`Interactive Guides` · `PostgreSQL` · `System-One (ANS)`
+`Interactive Guides` · `PostgreSQL` · `Decision Routing`
 
 <a href="https://duzafizzl.github.io/postgres-extensions-atlas/"><img src="https://img.shields.io/badge/Postgres_Atlas-14b8a6?style=for-the-badge&labelColor=05131b" alt="Postgres Atlas" /></a>
-<a href="https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/"><img src="https://img.shields.io/badge/System--One_Catalog-e89b32?style=for-the-badge&labelColor=05131b" alt="System-One Catalog" /></a>
+<a href="https://duzafizzl.github.io/Jev-community-demo-pattern-catalog/"><img src="https://img.shields.io/badge/Decision_Catalog-e89b32?style=for-the-badge&labelColor=05131b" alt="Decision Catalog" /></a>
 
 </td>
 </tr>
@@ -209,17 +212,17 @@ Two interactive visual reference guides for systems engineers:
 
 <br/><br/>
 
-**🧠 Memory & Weight-Space &nbsp;·&nbsp; 🤖 Embodied Robotics &nbsp;·&nbsp; 🏛️ Governance & Spec-Driven Gates**
+**🧠 Memory & Weight-Space &nbsp;·&nbsp; 🤖 Embodied Robotics &nbsp;·&nbsp; 🏛️ Governance & Verification Gates**
 
 <br/>
 
-<img src="https://img.shields.io/badge/Spec--Driven_Q--Gates-14b8a6?style=for-the-badge&labelColor=05131b" alt="Spec-Driven Q-Gates" />
+<img src="https://img.shields.io/badge/Spec--Driven_Development-14b8a6?style=for-the-badge&labelColor=05131b" alt="Spec-Driven Development" />
 <img src="https://img.shields.io/badge/PostgreSQL_&_Graph_Memory-249ea0?style=for-the-badge&labelColor=05131b" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Apple_Silicon_MLX_(bf16)-2ec4b6?style=for-the-badge&labelColor=05131b" alt="Apple Silicon MLX" />
 <img src="https://img.shields.io/badge/ROS_2_Nav2_&_LiDAR-e89b32?style=for-the-badge&labelColor=05131b" alt="ROS 2 Nav2" />
-<img src="https://img.shields.io/badge/LiveKit_WebRTC_Full--Duplex-4de8d6?style=for-the-badge&labelColor=05131b" alt="LiveKit WebRTC" />
-<img src="https://img.shields.io/badge/System--One_(ANS--det_/_ANS--soft)-e89b32?style=for-the-badge&labelColor=05131b" alt="System-One ANS" />
-<img src="https://img.shields.io/badge/EU_AI_Act_&_Eval_Harnesses-155263?style=for-the-badge&labelColor=05131b" alt="AI Governance & Eval" />
+<img src="https://img.shields.io/badge/LiveKit_WebRTC_Voice-4de8d6?style=for-the-badge&labelColor=05131b" alt="LiveKit WebRTC" />
+<img src="https://img.shields.io/badge/Deterministic_Safety_Gates-e89b32?style=for-the-badge&labelColor=05131b" alt="Deterministic Safety Gates" />
+<img src="https://img.shields.io/badge/EU_AI_Act_&_Quality_Governance-155263?style=for-the-badge&labelColor=05131b" alt="AI Governance & Quality" />
 <img src="https://img.shields.io/badge/Mermaid_Prism_3D-196b75?style=for-the-badge&labelColor=05131b" alt="Mermaid Prism" />
 
 </div>
@@ -250,7 +253,7 @@ Two interactive visual reference guides for systems engineers:
 
 ## 🤝 Explore the Architecture
 
-Interested in **Stateful Agent Memory**, **Weight-Space Editing**, **Cybernetic Safety Gates**, or **Embodied Robotics**?
+Interested in **Operational AI Governance**, **Stateful Agent Memory**, **Weight-Space Editing**, or **Embodied Robotics**?
 
 <a href="https://duzafizzl.github.io/miu-project-atlas/"><img src="https://img.shields.io/badge/Explore_The_Miu_Atlas_(3D)-14b8a6?style=for-the-badge&labelColor=05131b" alt="Explore The Miu Atlas" /></a>
 <a href="https://github.com/Duzafizzl/Kaskade-Memory"><img src="https://img.shields.io/badge/Read_Kaskade_Blueprint-e89b32?style=for-the-badge&labelColor=05131b" alt="Kaskade Blueprint" /></a>
